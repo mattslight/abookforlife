@@ -16,6 +16,7 @@
     </div>
   </div>
   <div id="app"></div>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script>
     window.$docsify = {
         name: '',
@@ -25,12 +26,16 @@
         markdown: {
           smartypants: true
         },
+        plugins: [
+         EditOnGithubPlugin.create('https://github.com/mattslight/abookforlife/blob/master/')
+        ]
       }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
   <!-- plugins -->
+
   <script>
   window.onscroll = function() {myFunction()};
 
