@@ -107,6 +107,11 @@ html, body {
   color: #555;
   line-height: 1.2;
 }
+#main > div > p > a {
+    top: 5px;
+    right: 10px;
+    position: fixed;
+}
 
 @media only screen and (max-width: 700px) {
 	body {
