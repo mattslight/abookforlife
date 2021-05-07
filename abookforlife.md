@@ -2,6 +2,27 @@
 
 <p style="text-align: center"><em>Some ideas we share</em></p>
 
+[//]: # "THE PURPOSE OF OURS LIFES IS TO HELP OTHERS WITH THEIRS
+
+**Share the truth - not what sounds good.**
+
+**Quit playing god. What is the truth?**
+
+## Notes
+
+==**Resentments**, where does this come in – should we explain in emotions what a resentment is, what about the practical application of dealing with resentments?==
+
+==1) ** Get grace and humility **==
+
+==Treating others: Welcome everybody. There are no requirements to friendship.==
+
+==Children have little need for these words. These ideas are formed by adults. Children follow their intuition==
+
+
+
+Listen to this again and make note of the similarities - https://youtu.be/fTQISoOvJpI – she takes about forgiveness, dealing with resentments, powerlessness, letting go, coming to terms with things – what are the parallels against alcoholism?
+"
+
 ## Foreword
 
 <span class="dropcap">M</span>ost books hope to add something to the world, perhaps the author has something she wishes to say. Maybe it's an inspiring story to tell, giving detailed accounts about characters and their relationships – describing in rich language places and the feelings they instil. Other books are biographical, giving us detailed accounts of people's lives – oftentimes showing us the life behind the curtains of a well known person. Words then can kindle emotions, take us on a journey of discovery or entertain us. Scientific books show us new theories, with ideas being rigorously tested. It is of great importance to bring new discoveries to the world and to introduce methods for reproducing repeatable results. Religious and spiritual works have formed at crucial points in cultures and societies, giving us hope for the future or identifying a code by which we can choose to live our lives. Often contained in these works are moral teachings, being scrutinised over the years by religious leaders and academics alike.
@@ -50,7 +71,7 @@ If you receive one message from this book let it be the idea to remain open-mind
 
 <div style="text-align: center"><em>Take advantage of ambiguity – look at something and think 'what else could it be?'</em></div>
 
-When talking about things or conveying ideas – especially when we communicate to others – language is primarily how we communicate. It is not the only way, body language is subtle but also powerful. Just as folded arm can express a potentially defensive outlook, so can the intricacies of language hide within them pre-conceived ideas. Unfortunately as powerful as language is it can sometimes muddy the waters of what actually is. For just as language can be precise and effective, it can also be ambiguous and blunt. Let's consider a small example.
+<span class="dropcap">W</span>hen talking about things or conveying ideas – especially when we communicate to others – language is primarily how we communicate. It is not the only way, body language is subtle but also powerful. Just as folded arm can express a potentially defensive outlook, so can the intricacies of language hide within them pre-conceived ideas. Unfortunately as powerful as language is it can sometimes muddy the waters of what actually is. For just as language can be precise and effective, it can also be ambiguous and blunt. Let's consider a small example.
 
 It is said that English has only one word for 'snow' – this isn't entirely accurate because we have the words sleet (wet falling snow), slush (partially melted snow), and so on.  Take on the other-hand Scandinavian languages, for example – the expressiveness of language around snow is far richer. This isn't because in Scandinavia there are more types of snow or that there are different types of snow not to be found elsewhere. It's just that as a culture, survival and day to day living has had a greater reliance on being precise when communicating to a fellow about snow. A farmer might need to be exact about the type of snow, covering a field say – or how heavily the snow is falling – or the approximate depth and compactness. Language is a human invention and it is up to us to decide how we apply it and what it means to us. 'Love' is another great example of a word that means many things to many people in different situations. It covers: parental love, conditional and unconditional love, lust, joy, kinship, admiration, tenderness, passion, and more. So if I ask "Do you love me?" - what then is the answer? Should I answer "Yes", "It depends" or "What do you mean by love?".
 
@@ -135,7 +156,7 @@ It is our hope that what we say is being communicated clearly and efficiently �
 
 <div style="text-align: center"><em>Don't talk about vision. Show it.</em></div>
 
-To intellectualise the ideas in this book would be to stub them out. Just as a bird studied in a cage doesn't sing or doesn't fly – so then when these words are left on these pages they wither and die.
+<span class="dropcap">T</span>o intellectualise the ideas in this book would be to stub them out. Just as a bird studied in a cage doesn't sing or doesn't fly – so then when these words are left on these pages they wither and die.
 
 Be brave – we have learned that when our hearts and minds are set in the right direction so then our actions start from a place of goodness. In the past our hearts were aligned to self-seeking, looking at what we could take from the world. Our hearts had also been in a place of dishonesty, to ourselves and to others. We hid from our true natures and by doing this we felt shame in our actions.
 
@@ -155,7 +176,7 @@ Finally by taking a succession of quick small positive actions upon awakening th
 
 ## 3. The Cost of Living (874)
 
-This is the shortest chapter in the book – do not be fooled, it is one of the most important concepts – hence these simple ideas being given a chapter and not a sub-heading of their own. When we understand these ideas they guide us in so much that we do – we keep these thoughts with us daily.
+<span class="dropcap">T</span>his is the shortest chapter in the book – do not be fooled, it is one of the most important concepts – hence these simple ideas being given a chapter and not a sub-heading of their own. When we understand these ideas they guide us in so much that we do – we keep these thoughts with us daily.
 
 ### Everything is Free
 
@@ -177,7 +198,7 @@ Lisa, a young woman became extremely wealthy at a young age. She had been promot
 
 ### What they are and how to decipher them
 
-Emotions are wonderful things, but they are also a burden. Without emotions we may be little more than robots, needlessly carrying out our lives with little panache and without enjoyment. Without emotion creativity may be more limited, love would surely be less passionate and our empathy would have far less potential for depth.
+<span class="dropcap">E</span>motions are wonderful things, but they are also a burden. Without emotions we may be little more than robots, needlessly carrying out our lives with little panache and without enjoyment. Without emotion creativity may be more limited, love would surely be less passionate and our empathy would have far less potential for depth.
 
 Sometimes emotions may be portrayed as being positive or negative – but this viewpoint may be limited in application. Anger which can often be classified as a 'negative' emotion can be extremely powerful in dealing with injustices and in those circumstances anger would be a valid feeling to be used as an indicator. Perhaps the secret to all emotions is to control our reactions when we feel them and how we channel our energies when directing them. When we feel anger, how are we going to react and how can we condition ourselves to avoid negative impulses? Hopefully our childhood upbringing and the environment we grew up in will have done a lot to help us in how we act upon our emotions. But it is not fair to ask the adults in our lives to prepare us for all situations. Often the deepest depths of feelings occur away from home, when we are trying things for the first time or when we least expect them. When we stop and think about it we have little control over the things that occur to us in our lives. Can we decide when it rains, or what a friend says to us? Do we control the news, stock markets or the traffic? Can we stop the tides or nature's desire to grow beyond its confines? To a certain extent we can choose where to live and the activities we engage in but we will never be able to stop all forms of actions towards us. It may be somebody telling us unwelcome news, an unpredicted turn in the weather or just plain bad luck. But we must accept that we can not control everything that occurs in our lives. In fact we may come to understand that the vast majority of most of what happens in our lives is beyond our control. The greatest arming trying to build a damn to stop the tides of the oceans for eternity or the most educated economists building a machine to accurately and reliably predict the stock market – in most  ways that matter in trying to control things around you, you will surely fail – and in trying frustrate yourself. Have the wisdom then to accept that some things will happen that we can not change.
 
@@ -312,7 +333,7 @@ As soon as we have reached out to others, offered and asked for help - we instan
 
 <div style="text-align:center"><em>Jealousy is insecurity hidden by bitterness</em></div>
 
-Jealousy is – we have learned – one of the most powerful emotions at times, and it can also be one of the most confusing. Its difficulty arises from the fact that jealousy is something like a mixture of two or three emotions working in tandem and then directed towards somebody. Jealousy can be built on both fear (insecurities) and resentment (anger, injustice). Jealousy also works differently when we harbour it against somebody, versus when we receive it.
+<span class="dropcap">J</span>ealousy is – we have learned – one of the most powerful emotions at times, and it can also be one of the most confusing. Its difficulty arises from the fact that jealousy is something like a mixture of two or three emotions working in tandem and then directed towards somebody. Jealousy can be built on both fear (insecurities) and resentment (anger, injustice). Jealousy also works differently when we harbour it against somebody, versus when we receive it.
 
 ==What is jealousy? Simply put it is feeling or showing an envious resentment of someone or their achievements, possessions, or perceived advantages. A feeling of discontent or resentment aroused by someone else's possessions, qualities, or luck.==
 
@@ -393,7 +414,7 @@ Most, if not all of us, have suffered to some degree or another, how much of our
 
 Intuitively many of us feel that suffering and pain go hand in hand. For if you feel nothing, then do you feel your suffering? Counter-intuitively it is possible to suffer without knowing or being in pain. We may be oblivious to the suffering we are going through, or maybe numb. Many of us have suffered without knowing at the time and only looking back have then experienced the echos of pain.
 
-Suffering we feel is part of the human condition, it is part of the advanced nature of our minds. Certainly we know it is possible to suffer memories of the past and projections of the future. Without these powerful tools suffering the past and the future would not be possible. Without good memories we would not be able to re-live past traumas, experience regret, or suffer things that have already happened. Without the capcity to ask "what if" or "if only" we could not become anxious about the future.
+Suffering we feel is part of the human condition, it is part of the advanced nature of our minds. Certainly we know it is possible to suffer memories of the past and projections of the future. Without these powerful tools suffering the past and the future would not be possible. Without good memories we would not be able to re-live past traumas, experience regret, or suffer things that have already happened. Without the capacity to ask "what if" or "if only" we could not become anxious about the future.
 
 So then part of the secret to reducing the suffering we feel, if we can at all, is living in the present moment (see section *Living in the Present*). For us this is easier said than done – the central idea to living in the now being to focus on what is around us and for being grateful for the things closest to us.
 
@@ -422,11 +443,11 @@ In summary we find it more effective when we can offer empathy rather than sympa
 
 <div style="text-align:center"><em>Be yourself — everybody else is taken</em></div>
 
-This is where we find that things get interesting. At the very least the ego is a fascinating and complex structure.
+<span class="dropcap">T</span>his is where we find that things get interesting. At the very least the ego is a fascinating and complex structure.
 
 When we first think about our Ego — Stop.
 
-Let's read that again slowly. "When we first think about our Ego". This is an odd phrase, isn't it? When we are disappointed we say "I'm not happy with myself". When we do well we might say "I'm so pleased with myself". So desn't this ask the question "who *is* I?", and "Who is *myself*?". Are these two different people?
+Let's read that again slowly. "When we first think about our Ego". This is an odd phrase, isn't it? When we are disappointed we say "I'm not happy with myself". When we do well we might say "I'm so pleased with myself". So  this ask the question "who *is* I?", and "Who is *myself*?". Are these two different people?
 
 We came to understand that our ego is like a feedback loop. At a moment in time we can ask questions of ourself – we can even ask "why am I asking this question?". We can think well of ourself or we can think poorly of ourself. As humans we have a unique gift – that we can think of ourselves at all…
 
@@ -535,7 +556,7 @@ We must remember that the opposite can also be true, it may be that we are physi
 
 ### Start with Balance
 
-Having balance before we reach for loftier goals often provides greater chance of success. Without balance you may find that practical guides will result in little or no benefit. Balance is so important in life that it is suggested to spend the majority of our time striving for balance. Do not be easily fooled, balance is not something that can be achieved and then forgotten about. It has to be a daily effort. Start each day accepting that your balance will be challenged. Your sleep, health, state of mind, well-being and diet will contribute to your balance subtly and in a variety of ways – indeed, when you are, you may not feel unbalanced but it is surely better to be cautious than overconfident in the assessment of your current state of balance.
+<span class="dropcap">H</span>aving balance before we reach for loftier goals often provides greater chance of success. Without balance you may find that practical guides will result in little or no benefit. Balance is so important in life that it is suggested to spend the majority of our time striving for balance. Do not be easily fooled, balance is not something that can be achieved and then forgotten about. It has to be a daily effort. Start each day accepting that your balance will be challenged. Your sleep, health, state of mind, well-being and diet will contribute to your balance subtly and in a variety of ways – indeed, when you are, you may not feel unbalanced but it is surely better to be cautious than overconfident in the assessment of your current state of balance.
 
 Many techniques are available to us to achieve balance. Exercise, rest, positive social interaction, good nourishment, meditation are all things that will tend to increase our level of balance. Spend a good amount of time each day cultivating your balance. On the other hand, tiredness, poor diet, isolation and a crowded mind are some of the things that tend to decrease our level of balance. Try to avoid activities that will decrease personal balance, although sometimes this is unavoidable.
 
@@ -566,7 +587,7 @@ When we have fully submitted we found that we were also fully available. To be a
 
 <div style="text-align:center"><em>Find no fault or blame. Stand up and say 'I will help'.</em></div>
 
-When we take ownership we stand up and say "I will take care of this", "The buck stops with me". When something goes wrong, when shit hits the fan, it is easy to start pointing fingers – mistakes are easy to find. It takes effort, patience, and thought to identify solutions. We find that identifying solutions and working through them resolves issues a lot quicker than pointing fingers. When we take ownership we do not seek to find blame – we set blame aside for it is not relevant to the solution. Something has occured and we focus on the solution. Blame has a negative effect as it causes the recipient to feel shame, which we find generates anger or triggers a defence mechanism – which hinder the solution process. Statements like "you caused this" can be polarising, especially when the other person's intentions were not to inflict, so we avoid them altogether. We found it to be productive to take ownership through use of "I feel this" or "I sense that". These very statements are taking ownership – the responsibility is mine, not somebody else's. If we all take that attitude then we are all working to a common goal.
+When we take ownership we stand up and say "I will take care of this", "The buck stops with me". When something goes wrong, when shit hits the fan, it is easy to start pointing fingers – mistakes are easy to find. It takes effort, patience, and thought to identify solutions. We find that identifying solutions and working through them resolves issues a lot quicker than pointing fingers. When we take ownership we do not seek to find blame – we set blame aside for it is not relevant to the solution. Something has occurred and we focus on the solution. Blame has a negative effect as it causes the recipient to feel shame, which we find generates anger or triggers a defence mechanism – which hinder the solution process. Statements like "you caused this" can be polarising, especially when the other person's intentions were not to inflict, so we avoid them altogether. We found it to be productive to take ownership through use of "I feel this" or "I sense that". These very statements are taking ownership – the responsibility is mine, not somebody else's. If we all take that attitude then we are all working to a common goal.
 
 When we take ownership we look at what we can contribute to a situation rather than looking for the fault. Highlighting the cause may be enough to find a solution, but drawing attention to other people's shortcomings unnecessarily rarely helps, and only adds to the set backs we faced.
 
@@ -595,13 +616,13 @@ So we see then that honesty isn't about making the right decision all the time, 
 
 How did we start living our lives with complete and rigorous honesty? In order to do this we had to start with self-honesty. For if we were not honest with ourselves – something that might lead to delusion – we had little chance of being honest with others. We found that honesty was something we could practice. We were able to do this on a daily, continual basis, if we ever had a doubt that a decision we took was in good faith we would reflect upon that at the time, if possible, or at least before going to bed. If we had been dishonest or wronged somebody we promptly admitted it, making amends quickly.
 
-We wrote down lists, completly honest lists of our shortcomings, common ones being greed, false pride, self-seeking, laziness, intolerance, denial – for these were we found all linked to a dishonest basis. Once we had identified these shortcomings we were able to seek in asking for them to be removed. Indeed through effort and continued action we were able to almost entirely eliminate these flaws. We doubted that we could ever remove all of them entirely from all situations in life, including the most testing – but this we accepted and acknowledged this was to be human. We adopted the attitude of progress, rather than perfection. For when we sought perfection and  failed this would inevitably knock us back. So then by being humble but accepted our shortcomings and continued to improve ourselves – and our conduct towards others.
+We wrote down lists, completely honest lists of our shortcomings, common ones being greed, false pride, self-seeking, laziness, intolerance, denial – for these were we found all linked to a dishonest basis. Once we had identified these shortcomings we were able to seek in asking for them to be removed. Indeed through effort and continued action we were able to almost entirely eliminate these flaws. We doubted that we could ever remove all of them entirely from all situations in life, including the most testing – but this we accepted and acknowledged this was to be human. We adopted the attitude of progress, rather than perfection. For when we sought perfection and  failed this would inevitably knock us back. So then by being humble but accepted our shortcomings and continued to improve ourselves – and our conduct towards others.
 
 ## 8. Taking Care of Ourselves (1328) 🔄
 
 ### Finding Balance 🔄
 
-We talked earlier about balance and its importance. So we turn here to a practical guide on ways which we use to achieve balance.
+<span class="dropcap">W</span>e talked earlier about balance and its importance. So we turn here to a practical guide on ways which we use to achieve balance.
 
 In no particular order we find that we should perhaps strive to nourish the triad of mind, body and soul each day. Experience shows us that to leave out one element of this triad is to neglect a significant part of our needs. Sure, it may be enough for a short period of time to get by simply taking care of one's mind, perhaps by study, or taking physical exercise. But before long however our soul will desire something more, something greater than can be achieved by feeding the mind or exercising the body. We note that the mind and the body are generally well catered for in a lot of modern cultures. It is therefore generally easier to find information that caters for exercising our intellect and physical attributes. The soul or spirit within us seems to be losing the race generally in the sense that less and less attention is paid to this part of us – throughout history this hasn't always been the case. Indeed in many cultures and societies there is a rich toolset for keeping the soul fit. In Japanese cultures there is the concept of Ikagi. Buddhism and Hinduism have Dharma. The closet concept in Western thought might be Spirituality. However we think about the part of us that makes up how we feel, drives us to ask questions and cares for the feelings of others – taking care of it is as important as going to the gym is for the body, or puzzles are for the mind. Luckily there are a number of straight forward tried and tested tools that we can employ, that have been in use by many people for thousands of years – that help us regain balance of the soul. However just as getting our bodies in shape is as straightforward as going to the gym, finding the motivation and keeping the discipline required to achieve spiritual fitness or balance is simple in theory, but not always so easy in practice.
 
@@ -654,13 +675,45 @@ Do not despair – it is natural for one or many of these things to seep into ou
 
 ## 9. Treating Others 🔄
 
+### Help Others
+
+<div style="text-align:center"><em>The Purpose of Life is to Help Others with theirs</em></div>
+
+<span class="dropcap">E</span>very one of us is a son or a daughter. Some of us may choose to, or not be able to have children. But each of us has something in common, we have a mother and a father.
+
+Those of us who are fortunate enough to be parents know instinctively that our duty is to take care of our offspring. Some of us do better jobs at it than others, but for the most part we all do the best we can.
+
+Through the ages there have been many different views on how we should treat others. The examples of "an eye for an eye", "what goes around comes around" and "treat others how you wish to be treated" come to mind – the latter being known as *The Golden Rule*, versions of which have been found in most cultures as far back as the earliest discovered writings.
+
+Usually these ideas lead to some debate, how far should we take fair payback? How should we build moral codes and laws? Can we tell if somebody made a mistake when they caused harm – versus when the behaviour was vindictive or reckless? Another idea is that of "turning the other cheek", which lends itself to some pacifist philosophies. Can we really quash hatred with love?
+
+Sooner or later each of us will suffer a fall from grace – often from our own making. There are very few fortunate souls who never suffer such a fall. We all lose loved ones – and we can not escape the associated dramatic, if not traumatic loss. The only way we may escape this experience perhaps would be to live alone, on a desert island say.
+
+The human race was founded on society. Humans are not the strongest creatures – individually we are easy prey for all manner of large animals, lions, tigers, elephants, wolves, hyenas, gorillas, bears, rhinos, crocodiles – and so on. And it's not just large animals that would have us licked, snakes, scorpions, jellyfish, spiders – all kill thousands annually. Mosquitos, bacteria, Tsetse flies and viruses kill millions every year, a number that would be much higher without vaccines and medicines produced by social collaboration through science. Every day on this planet is a team effort.
+
+So how then did we reach where we are now? Even the most narcissistic amongst us have gotten to where they are through adult guidance, parents, guardians, aunts, uncles, teachers. Life requires the help of others.
+
+Not one of us would be where we are without the help of others. A baby can not fend for itself, it would have no food or shelter, warmth or clothes. Every single one of us has relied on the help of others.
+
+This is not grandiose idealism – this is a fact of life. One which many of us forget at some point in our lives. Even those amongst us with the hardest hearts can not deny that life alone on this planet would be pretty dire. It is through the help and kindness of others that we are able to live our lives.
+
+Children have a lot to teach us in this area. Watch children play – they have no bias towards gender, creed, skin colour or social status. Every child they meet is an opportunity for a friend. Children bare no grudges. Sure kids fight, but five minutes later or the next day they have moved on. Why then as adults do we become so stubborn? Why do we treat people differently bases on their social status, job title, gender, background, ethnicity? Where have we learned these prejudices? And why do we allow them to persist?
+
+Children say what is on their mind, they say things as they see them – children often see the truth when adults are dancing around ideas of political correctness, not wanting to hurt somebody else's feelings or fear of speaking out.
+
+Those of us who have survived the deepest traumas – life or death situations – war, terrorism, substance abuse, addiction, loss, child abuse, criminal attack, violent assault, rape – have come to experience an unparalleled togetherness . There is something in the common experience of deep injury that brings people together. Just as when the titanic is sinking it matters little if you are the captain, a decorated politician or a pantry chef in the lower decks – when you find yourself in a lifeboat, skin colour, social standing or financial wealth have very little to do with survival.
+
+Helping others isn't a selfless act – when we help somebody we feel good about ourselves, we have a sense of pride and camaraderie that immediately improves our well-being. In fact when our survival depends on it, helping others may very well be a selfish act. The point is we found that in order to live our lives fully we must not only accept help but we must offer help to others.
+
+==SHOW NO PREJUDICE==
+
 ### Practice before you Preach
 
 <div style="text-align:center"><em>Before you spit out your words, be sure to taste them</em></div>
 
 Part of what keeps us sane is sharing the ideas we find helpful in our daily lives. It was told to us that in order to keep the gifts that have come to us through practicing these principals, we must give them away. What does that really mean? Well we came to understand something like this: When we put the ideas shared with us into practice then great things come to pass. We witness this – we see people turn around their lives and overcome extreme adversity. Those who succeeded in staying on the straight and narrow path had to gives these ideas away. The most successful of us share freely these principles.
 
-Our old ways that centred on greed, self-seeking and envy got us into much trouble. Most, if not all of us, at one time or another got into serious difficulties when we relied on our own self-will for all our guidance. It was important that we applied our own resources and abilities, but perhaps more importantly we took responsibility for our actions without assigning blame — for we have seen how destructive that can be.
+Our old ways that centred on greed, self-seeking and envy got us into much trouble. Most, if not all of us, at one time or another got into serious difficulties when we relied on our own self-will for all our guidance. It was important that we applied our own resources and abilities, but perhaps more importantly we took responsibility for our actions without assigning blame — for we have seen how destructive that can be.
 
 We took the approach that it is better to show these principals in all our affairs than to talk about them. When we were asked or did share we found that if we hadn't practiced them and showed others what it means to live this way – it had little or no effect on ourselves or others. Indeed, throughout the ages and through our lives these words have been uttered many times, and it's not so much that they fall on deaf ears as that we sometimes lack examples as to their meaning. Left to nothing but interpretation and our minds anything was possible – healthy or unhealthy.
 
@@ -686,11 +739,11 @@ Sometimes we found that because of our new attitudes people came to us in need, 
 
 ## 10. Twelve Steps for Life 🔄
 
-These steps for life have been shamelessly and gratefully lifted from 12 step programmes. What has a programme for addiction recovery got to do with living a fulfilling life? And why not write a new set of steps?
+<span class="dropcap">T</span>hese steps for life have been shamelessly and gratefully lifted from 12 step programmes. What has a programme for addiction recovery got to do with living a fulfilling life? And why not write a new set of steps?
 
 Firstly the idea of borrowing these steps from practical programmes that treat all manner of lifelong illnesses is that they are tried and tested. We have seen them work in the most dire of circumstances – these steps save lives, prevent long-term disease and have helped millions of people rebuild their lives successfully. Medical professionals have, against the odds, and perhaps the logic of all other medical practice, been surprised by their effectiveness. Little may be understood about the exact mechanics of how they work, maybe one day this will be better understood. Nevertheless, rarely has a person who has followed the steps not been able to overcome a great problem in their life and resolve much or all of the trauma and suffering. There are many testimonies to their success, attend an open recovery meeting and you will witness for yourself how effective these principals are.
 
-Secondly if you find yourself at one point in time coming to rely on these steps it is helpful to have somebody with more experience help you through them. This is a fundamental principal of going through these steps, it has been said that you simply can not go through them properly alone – indeed steps 4 and 8 require you to share rigourously with somebody else. One of the ideas here is to relieve yourself of the burden of guilt, shame and remorse and to give you greater courage in the face of adversity (refer to section *Guilt, Shame, Remorse*). Since many recovered addicts have been through these steps they may be ideal candidates to guide you through them.  You might know somebody in your circle of friends, colleagues, associates or family who has battled with alcohol – say, or has suffered with an eating disorder. Speak to them and ask for help – if you prefer to retain anonymity seek out your local help group on the internet, your GP, social worker or local religious leader who can all also point you in the right direction. Hopefully the person you connect with will empathise with any suffering you may be in and will surely take time to work with you or point you in the right direction.
+Secondly if you find yourself at one point in time coming to rely on these steps it is helpful to have somebody with more experience help you through them. This is a fundamental principal of going through these steps, it has been said that you simply can not go through them properly alone – indeed steps 4 and 8 require you to share rigorously with somebody else. One of the ideas here is to relieve yourself of the burden of guilt, shame and remorse and to give you greater courage in the face of adversity (refer to section *Guilt, Shame, Remorse*). Since many recovered addicts have been through these steps they may be ideal candidates to guide you through them.  You might know somebody in your circle of friends, colleagues, associates or family who has battled with alcohol – say, or has suffered with an eating disorder. Speak to them and ask for help – if you prefer to retain anonymity seek out your local help group on the internet, your GP, social worker or local religious leader who can all also point you in the right direction. Hopefully the person you connect with will empathise with any suffering you may be in and will surely take time to work with you or point you in the right direction.
 
 The original wordings of the steps have been changed, but the essence has remained – it is the hope that the words will be easy to understand and apply in a wide variety of situations. The original 12 steps contained the word God, it is up to you to decide what the power you rely on in steps 1-3 means to you (chapter 2. Truth, Belief and Open-mindedness might be helpful in deciding). Many people choose to use the concept of a Higher Power, which is simply a power greater than ourselves – and people think of this Higher Power as a variety of things, ranging from the Universe, the Great Outdoors, science or a group of friends and family. Whatever this power is to you, you must understand that it is a power greater than yourself, part of which you will find in yourself, and other parts of which you will find outside of you. It is the realisation that part of this power is outside of you that really matters – and the acceptance that you are connected to all things is extremely important to understand – you can not overcome extreme adversity alone.
 
@@ -788,7 +841,7 @@ When we are painstaking about this phase of our development (step 8 & 9 )
 
 ## 11. Practical Daily Life
 
-Most of what is written earlier in this book is of general application. From this chapter forward this book turns to more practical affairs. Now that we have looked at questions concerning such topics as truth, submission and gratitude we may turn our attention to some more practical applications.
+<span class="dropcap">M</span>ost of what is written earlier in this book is of general application. From this chapter forward this book turns to more practical affairs. Now that we have looked at questions concerning such topics as truth, submission and gratitude we may turn our attention to some more practical applications.
 
 ### Gratitude Lists
 
@@ -861,14 +914,14 @@ Just for today I will I will face my fears. I will not be afraid to notice what 
 
 ### The 12 Principals
 
-1. **ACCEPTANCE**
+1. **ACCEPTANCE** – Come to terms; let-go of old ideas.
 2. **HOPE** – Expectation without entitlement.
 3. **FAITH** – Complete confidence; belief and trust.
 4. **HONESTY** – Fairness and straight-forward conduct.
 5. **COURAGE** – Firmness of mind; facing up to fears.
 6. **WILLINGNESS** – Prompt to act or respond, without reluctance.
 7. **HUMILITY** – No false pride; not arrogant; understanding of ourselves and a sincere desire to improve.
-8. **LOVE** ==or **SINCERITY**== – Unlimited, unselfish concern for everybody; always available; doesn't hold grudges.
+8. **LOVE** – Unlimited; unselfish concern for everybody; always available; doesn't hold grudges.
 9. **DISCIPLINE** – To develop by practice.
 10. **PATIENCE/PERSEVERANCE** – Tolerance and consideration of others, unhurried and unlimited; Continue despite adversity.
 11. **AWARENESS** – Alive and alert; vigilance in observing.
@@ -957,7 +1010,7 @@ This too shall pass.
 Learn the lesson.
 
 ### Decision Making
-Grant me the serenity to accpet the things I can not change,
+Grant me the serenity to accept the things I can not change,
 The courage to change the things I can,
 And the wisdom to know the difference.
 
@@ -1078,7 +1131,7 @@ Not all of us can do great things. But we can all do small things with great lov
 
 Select and collect all the words and sentences that in all your readings have been to you like the blast of a trumpet.
 
-Feet sandaled with dreams tread paths of vision leading to wisdom’s sharp peaks.
+Feet sandalled with dreams tread paths of vision leading to wisdom’s sharp peaks.
 
 The swiftest horse can't overtake a word once spoken
 
