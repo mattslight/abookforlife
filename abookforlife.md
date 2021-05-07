@@ -2,17 +2,16 @@
 
 <p style="text-align: center"><em>Some ideas we share</em></p>
 
-[//]: # "THE PURPOSE OF OURS LIFES IS TO HELP OTHERS WITH THEIRS
-
-**Share the truth - not what sounds good.**
-
-**Quit playing god. What is the truth?**
+[//]: # "
 
 ## Notes
+**THE PURPOSE OF LIFE IS TO HELP OTHERS LIVE THEIRS**
+**Share the truth - not what sounds good.**
+**Quit playing god. What is the truth?**
 
-==**Resentments**, where does this come in – should we explain in emotions what a resentment is, what about the practical application of dealing with resentments?==
+**Resentments**, where does this come in – should we explain in emotions what a resentment is, what about the practical application of dealing with resentments
 
-==1) ** Get grace and humility **==
+**Get grace and humility**
 
 ==Treating others: Welcome everybody. There are no requirements to friendship.==
 
@@ -69,9 +68,9 @@ If you receive one message from this book let it be the idea to remain open-mind
 
 ### First, A point about Language
 
-<div style="text-align: center"><em>Take advantage of ambiguity – look at something and think 'what else could it be?'</em></div>
+<div style="text-align: center" class="quote-title"><em>Take advantage of ambiguity – look at something and think 'what else could it be?'</em></div>
 
-<span class="dropcap">W</span>hen talking about things or conveying ideas – especially when we communicate to others – language is primarily how we communicate. It is not the only way, body language is subtle but also powerful. Just as folded arm can express a potentially defensive outlook, so can the intricacies of language hide within them pre-conceived ideas. Unfortunately as powerful as language is it can sometimes muddy the waters of what actually is. For just as language can be precise and effective, it can also be ambiguous and blunt. Let's consider a small example.
+<span class="dropcap">W</span>hen talking about things or conveying ideas, especially when we communicate to others, language is primarily how we communicate. It is not the only way, body language is subtle but also powerful. Just as folded arms can express a defensive outlook, so can the intricacies of language hide within them pre-conceived ideas. Unfortunately as powerful as language is it can sometimes muddy the waters of what actually is. For just as language can be precise and effective, it can also be ambiguous and blunt. Let's consider a small example.
 
 It is said that English has only one word for 'snow' – this isn't entirely accurate because we have the words sleet (wet falling snow), slush (partially melted snow), and so on.  Take on the other-hand Scandinavian languages, for example – the expressiveness of language around snow is far richer. This isn't because in Scandinavia there are more types of snow or that there are different types of snow not to be found elsewhere. It's just that as a culture, survival and day to day living has had a greater reliance on being precise when communicating to a fellow about snow. A farmer might need to be exact about the type of snow, covering a field say – or how heavily the snow is falling – or the approximate depth and compactness. Language is a human invention and it is up to us to decide how we apply it and what it means to us. 'Love' is another great example of a word that means many things to many people in different situations. It covers: parental love, conditional and unconditional love, lust, joy, kinship, admiration, tenderness, passion, and more. So if I ask "Do you love me?" - what then is the answer? Should I answer "Yes", "It depends" or "What do you mean by love?".
 
@@ -99,7 +98,7 @@ So then we remind ourselves that sitting and talking is one thing, that may have
 
 ### Truth
 
-<div style="text-align:center"><em>Determining the truth doesn't change the facts</em></div>
+<div style="text-align:center" class="quote-title"><em>Determining the truth doesn't change the facts</em></div>
 
 When it comes to truth – does such a thing exist? Great philosophers have covered ideas of what is true since the dawn of humanity. Many pages have been written and almost every angle considered. What then can be added from a short introduction in a book that is neither grounded in rigorous philosophy or academic study?
 
@@ -111,7 +110,7 @@ Now what about answering something more complex about this length of string? Let
 
 ### Belief
 
-<div style="text-align:center"><em>To believe with certainty we must begin with doubting</em></div>
+<div style="text-align:center" class="quote-title"><em>To believe with certainty we must begin with doubting</em></div>
 
 When it comes to belief, things are equally quirky. Belief is partly about the truth, and it is also about one's own experience. Now we know that each one of us has had a variety of different experiences. Is it any wonder that this variety of personal experiences creates an equal or greater variety of personal beliefs? On top of this, one's personal beliefs have little effect on what '*is so*' and what '*is not so*' in this world. Does one's personal belief change what is? If I believe the sun is green - does it make it so? What if the way I perceive colours differs from the next person? Or my ability to see colours changes suddenly due to an eye infection? And what if I believe the world is a great place to grow up in and one day I believe it is no longer the case. Who has changed? Is it I or the world?
 
@@ -121,11 +120,11 @@ So then, in this world isn't it so that some things are, and some things are not
 
 ### Open-mindedness
 
-<div style="text-align:center"><em>I never liked jazz music. One night when I saw a man playing the saxophone. I stood there for fifteen minutes, and he never opened his eyes.</em></div>
+<div style="text-align:center" class="quote-title"><em>I never liked jazz music. One night when I saw a man playing the saxophone. I stood there for fifteen minutes, and he never opened his eyes.</em></div>
 
-<div style="text-align:center"><em>After that I liked jazz music.</em></div>
+<div style="text-align:center" class="quote-title"><em>After that I liked jazz music.</em></div>
 
-<div style="text-align:center"><em>Sometimes you have to watch somebody love something before you can love it yourself. It is as if they are showing you the way.</em></div>
+<div style="text-align:center" class="quote-title"><em>Sometimes you have to watch somebody love something before you can love it yourself. It is as if they are showing you the way.</em></div>
 
 
 In life we are presented with a great deal of choices, many day-to-day choices are small with relatively minor consequences, the choice of what jam to have on toast, what clothes to wear, whether to take the quickest route to our destination or the scenic route. From time to time you will be presented with options. To keep an open mind is akin to keeping your options open. Open-mindedness can be about saying "if I had to place my bets today, here is where I would put my money". Now just as any wise gambler knows there is no such thing as a sure bet – we would be wise to know that the odds may one day change – including today. Being openminded doesn't require you to give up your beliefs – for example, I am free to believe that God exists – but I still may like to keep an open mind. Let's say I meet a friend who holds a different opinion. And we decide to talk about the subject – now by sharing new ideas and being open to the other's point of view we may both enrich our position and gain something we would not if we did not listen to the other. Now that's not to say we have conceded our ideas – but aren't we more informed, especially about the other's view?
@@ -140,7 +139,7 @@ So then in everything we do we strive to allow ourselves to be strong and yet mo
 
 ### Overcoming these hurdles
 
-<div style="text-align:center"><em>We don't see things as they are, we see them as <b>we</b> are.</em></div>
+<div style="text-align:center" class="quote-title"><em>We don't see things as they are, we see them as <b>we</b> are.</em></div>
 
 Bearing in mind the preceding sections – how does any book that admits these inherent weaknesses expect to deal with the shortcomings?
 
@@ -154,7 +153,7 @@ It is our hope that what we say is being communicated clearly and efficiently �
 
 ## 2. Take Action (637)
 
-<div style="text-align: center"><em>Don't talk about vision. Show it.</em></div>
+<div style="text-align: center" class="quote-title"><em>Don't talk about vision. Show it.</em></div>
 
 <span class="dropcap">T</span>o intellectualise the ideas in this book would be to stub them out. Just as a bird studied in a cage doesn't sing or doesn't fly – so then when these words are left on these pages they wither and die.
 
@@ -180,13 +179,13 @@ Finally by taking a succession of quick small positive actions upon awakening th
 
 ### Everything is Free
 
-<div style="text-align:center"><em>Kindess is free to give, but priceless to receive</em></div>
+<div style="text-align:center" class="quote-title"><em>Kindess is free to give, but priceless to receive</em></div>
 
 It was once said that "nothing in life is free", isn't it strange then that perhaps *nothing could be further from the truth*. The warmth of the sun, the wheat that grows from the earth – that makes the bread we eat, the love of people we have never met, good ideas and inner peace – these are all some of the most valuable things, essential to human life, and – that are freely available, if we work for them. Take some time to watch the birds, as they forage for food, collect twigs or build nests. Watch a cat find peace taking a nap in the afternoon sun. Has an animal ever paid for a single thing? Animals' homes, the food they eat, the relationships they make – all gathered using their own resourcefulness, which has been freely given to them at birth, and refined as they grow and learn. Make no mistake – the bird goes about his daily business, busy, working hard to find food and shelter. Some days the bird may find little food. In harsh weather life will be difficult for the bird. Luckily then, as humans, we have created more efficient ways of organising food production, clothing, housing supply, security and so on. Isn't it true that everything of fundamental value to us – such as food, love, shelter, warmth etc. is freely available if we search hard enough?  If you work for something it will come.
 
 ### Everything comes at a Price
 
-<div style="text-align:center"><em>Without effort, nothing grows but weeds</em></div>
+<div style="text-align:center" class="quote-title"><em>Without effort, nothing grows but weeds</em></div>
 
 How can it be that everything is free and yet everything has a price? Some things we may give freely or receive freely. Do not be caught out by the trap then that a free lunch will usually come without strings. Haven't we all experienced a one time or another an offer that seems too good to be true? Indeed, does the person offering a free lunch want something in return? Being aware of the motivations of others help us make informed decisions about what we choose to accept. So then, give freely and be humble in what you receive.
 
@@ -226,7 +225,7 @@ Another trick is you use a dictionary – this has helped us. To continue with o
 
 ### Fear
 
-<div style="text-align:center"><em>The fears we don't face become our limits</em></div>
+<div style="text-align:center" class="quote-title"><em>The fears we don't face become our limits</em></div>
 
 Fear is probably the most powerful and controlling emotions. It is both a strong emotion and one that will crop up on a daily basis, without us necessarily being aware of it. Some of us may think we have outgrown fear, but we were mindful not to fall into this trap. When we lived our lives in the your comfort zone that did not mean that we had nothing to fear –  we  were certainly not immune to feeling scared. Other times our fears may be too eagerly present. In general our fears are born out of our concerns about the future. They are most often a result of something that you think may come to be. Even when the past is involved, a fear is usually about some future uncovering of the past - for example somebody finding out something we did when we were younger. Most often fear has little relevance with the present moment. In a truly threatening situation most people report that adrenaline and instinct takes over and that fear has little if any role when difficult moments actually come to play out.
 
@@ -242,7 +241,7 @@ Fear affects our social interactions – if I am scared of how something I say w
 
 ### Anger
 
-<div style="text-align:center"><em>Where there is anger, there is pain</em></div>
+<div style="text-align:center" class="quote-title"><em>Where there is anger, there is pain</em></div>
 
 Despite what may seem so on the face of it, anger is probably not the most powerful emotion. Anybody who has experienced deep sorrow, the loss of a friend, has felt an uncontrollable gut wrenching that can last days will say that deep sadness can outweigh even the fiercest anger. That said, hopefully deep sadness will be an emotion we only have to experience once in a while. Anger however, in small bursts of frustrations crop up daily unless we are completely serene and calm, like when we are on holiday. If we are lucky anger comes now and then disappears as quickly as it comes – unless facing a long difficult period or continuous adversity. Anger might be the most hurtful outward emotion. Just as fear, sorrow or depression sit inside us and  eat away at us over time. Anger usually expresses itself outward towards others. Of course that is now always the case, anger can just as well be directed at ourselves – we might say "I'm annoyed I did that". Anger can become dangerously toxic – indeed unaddressed anger in the form of resentments can be extremely consuming.
 
@@ -268,7 +267,7 @@ Remember all of this takes years of practice, especially conflict resolution, th
 
 ### Sadness
 
-<div style="text-align:center"><em>What brings us to tears, will lead us to grace</em></div>
+<div style="text-align:center" class="quote-title"><em>What brings us to tears, will lead us to grace</em></div>
 
 Is sadness bad for us? Is it avoidable? Can we be at ease feeling sad? Practically all of us have experienced what is it like to feel sad, it is that downward feeling – sometimes accompanied by tears. Sadness can sometimes be portrayed as a negative emotion, but like the others we have noticed that sadness is simply an expression of how we are feeling. Without knowing sadness we may not be able to feel empathy, or recognise when something hurts us.
 
@@ -282,7 +281,7 @@ What if we can't identify the source of sadness? Sometimes we may simply feel sa
 
 ### Joy, Excitement
 
-<div style="text-align:center"><em>When the mind is pure, joy follows like a shadow that never leaves</em></div>
+<div style="text-align:center" class="quote-title"><em>When the mind is pure, joy follows like a shadow that never leaves</em></div>
 
 Is Joy the opposite of sadness? Perhaps it is, but then again perhaps it is not – and this may be a matter of context and definition. Here then when we talk about joy, we mean feelings of great pleasure – it may be related to the times when we smile uncontrollably. Other times joy comes to us in the form of continued happiness. Some of us may be lucky in that we experience long continuous periods of joy that seem to defy all boundaries and help us overcome a variety of situations.
 
@@ -303,7 +302,7 @@ So then we see that happiness may be a variety of things, it may be felt for our
 
 ### Loneliness
 
-<div style="text-align:center"><em>Loneliness is not being alone, it is the feeling that nobody cares</em></div>
+<div style="text-align:center" class="quote-title"><em>Loneliness is not being alone, it is the feeling that nobody cares</em></div>
 
 Let's first be clear what we mean when we talk about loneliness – for us it is not being alone. Having time to oneself is extremely helpful, should be sought after (in equilibrium with social time) and can give us vital downtime we need to recharge. Some of us prefer spending longer times alone whilst others have greater urge to spend time with others. We are all different – and yet each of us requires a balance of spending time with people and time to ourselves. But this is not what loneliness is about.
 
@@ -331,7 +330,7 @@ As soon as we have reached out to others, offered and asked for help - we instan
 
 ### (ENVY?) Jealousy
 
-<div style="text-align:center"><em>Jealousy is insecurity hidden by bitterness</em></div>
+<div style="text-align:center" class="quote-title"><em>Jealousy is insecurity hidden by bitterness</em></div>
 
 <span class="dropcap">J</span>ealousy is – we have learned – one of the most powerful emotions at times, and it can also be one of the most confusing. Its difficulty arises from the fact that jealousy is something like a mixture of two or three emotions working in tandem and then directed towards somebody. Jealousy can be built on both fear (insecurities) and resentment (anger, injustice). Jealousy also works differently when we harbour it against somebody, versus when we receive it.
 
@@ -363,7 +362,7 @@ Self-pity directly outwardly tends to have a different purpose. Its goal is simi
 
 ### Guilt, Shame and Remorse
 
-<div style="text-align:center"><em>Unless we let go and forgive ourselves, we can't move on</em></div>
+<div style="text-align:center" class="quote-title"><em>Unless we let go and forgive ourselves, we can't move on</em></div>
 
 This triad of emotions are cunning and require delicate attention. They are perhaps not as well known or understood by us as the more primary emotions of fear, anger, sadness and joy. It is for this reason that guilt and shame get swept under the carpet.
 
@@ -404,7 +403,7 @@ As a final note, we didn't treat this as a one-time process  –  neither did w
 
 ### Suffering
 
-<div style="text-align:center"><em>From suffering emerge the strongest souls; the biggest characters are born of scars</em></div>
+<div style="text-align:center" class="quote-title"><em>From suffering emerge the strongest souls; the biggest characters are born of scars</em></div>
 
 Is suffering avoidable? What is its purpose? Is it necessary?
 
@@ -429,7 +428,7 @@ We learned then, over time, to channel our suffering into positive change, wheth
 
 ### Sympathy vs Empathy
 
-<div style="text-align:center"><em>Sympathy is witnessing somebody's misfortune, Empathy is understanding it</em></div>
+<div style="text-align:center" class="quote-title"><em>Sympathy is witnessing somebody's misfortune, Empathy is understanding it</em></div>
 
 Why should we choose to draw a distinction between sympathy and empathy? What really are the differences and does it matter? Firstly lets distinguish between sympathy and empathy – for although they are related there is a subtle difference.
 
@@ -441,7 +440,7 @@ In summary we find it more effective when we can offer empathy rather than sympa
 
 ## 6. The Ego (2485) 🔄
 
-<div style="text-align:center"><em>Be yourself — everybody else is taken</em></div>
+<div style="text-align:center" class="quote-title"><em>Be yourself — everybody else is taken</em></div>
 
 <span class="dropcap">T</span>his is where we find that things get interesting. At the very least the ego is a fascinating and complex structure.
 
@@ -490,7 +489,7 @@ When we let something define our self worth, such as money, a job, a relationshi
 
 ### Love Yourself
 
-<div style="text-align:center"><em>To love yourself is to accept the experiences that shaped you</em></div>
+<div style="text-align:center" class="quote-title"><em>To love yourself is to accept the experiences that shaped you</em></div>
 
 We came here often to read this section. A lot of ideas in this book require a lot of work and a lot of practice, the idea of loving ourselves we found to be no different – luckily we found some simple and effective tools for loving ourselves. Without love for ourselves we could not love others. Love for yourself will keep you balanced and it will keep you strong in the face of adversity. We have found that being tough on ourselves for small mistakes only added to our frustrations.
 
@@ -518,7 +517,7 @@ Finally we took time in each day to rest and to recharge our energies, rememberi
 
 ### Humility
 
-<div style="text-align:center"><em>Ego will burn you, and humility rises from the ashes</em></div>
+<div style="text-align:center" class="quote-title"><em>Ego will burn you, and humility rises from the ashes</em></div>
 
 #### Staying Humble
 
@@ -530,7 +529,7 @@ To stay humble we found that we needed to always be in a position to help others
 
 ### Your Biggest Weakness is Your Biggest Strength
 
-<div style="text-align:center"><em>You'll never know how strong you are,<br />until your weakness is tested.</em></div>
+<div style="text-align:center" class="quote-title"><em>You'll never know how strong you are,<br />until your weakness is tested.</em></div>
 
 Doesn't it seem impossible that our biggest weakness could be our biggest strength? How can a weakness be a strength at all?
 
@@ -563,7 +562,7 @@ Many techniques are available to us to achieve balance. Exercise, rest, positive
 Start each day with the assumption that you need to reset your balance and expect each day to bring against you things that will sway you. Most of all be prepared each day for your tower to fall – knowing that one day such an event will come, this will hopefully help reduce the shock of a complete knock to your balance when it does come. Being prepared you'll be better able to pick up your pieces, resetting your balance, and building a new platform of balance in your life. To be more specific, some days life will feel easy, things will seem to go your way and confidence and enjoyment will appear in abundance. Other days life will seem to demand more from you, you will feel challenged and pushed to your limit or beyond your boundaries. This is normal, and each person who has graced this world has experience of this in some degree or another. Every now and then something will happen to you so as to shock you and may completely rock the foundations your assumptions are built on, it may be the death of a close friend, a perceived severe injustice, diagnosis of an incurable disease. With the foreknowledge that one day a shock will come it may be possible to take the sting off such a shock, but do not expect that because you are aware of possibilities the reality of a situation will be any less devastating when it does come to be. In that moment remember this moment too will pass, accept the feelings that you have been given and allow your feelings time to communicate to you. Most importantly seek the guidance of others, when the foundations of your mind are challenged it will be of little practical use to rely on your own devices or experience. When you are lost at sea it is better to call upon somebody to help guide you, that can perhaps provide a constant beacon on dry land, than to brave the waters alone and risk drowning. Rarely in life are the waters in which you are swimming not understood by others. It is often easier from the outside looking in to make greater sense of a situation, with or without relevant experience – it is perhaps easier because of not being caught up in the situation or through looking at it with fresh eyes. Whatever the reasons, seeking a second opinion usually provides beneficial results.
 
 ### Submission
-<div style="text-align:center"><em>“Let things flow forward naturally in whatever way they like.”</em></div>
+<div style="text-align:center" class="quote-title"><em>“Let things flow forward naturally in whatever way they like.”</em></div>
 
 Submission is a fairly common and broad concept. Is submission the same as giving in or tapping out?
 
@@ -585,7 +584,7 @@ When we have fully submitted we found that we were also fully available. To be a
 
 ### Ownership and Responsibility
 
-<div style="text-align:center"><em>Find no fault or blame. Stand up and say 'I will help'.</em></div>
+<div style="text-align:center" class="quote-title"><em>Find no fault or blame. Stand up and say 'I will help'.</em></div>
 
 When we take ownership we stand up and say "I will take care of this", "The buck stops with me". When something goes wrong, when shit hits the fan, it is easy to start pointing fingers – mistakes are easy to find. It takes effort, patience, and thought to identify solutions. We find that identifying solutions and working through them resolves issues a lot quicker than pointing fingers. When we take ownership we do not seek to find blame – we set blame aside for it is not relevant to the solution. Something has occurred and we focus on the solution. Blame has a negative effect as it causes the recipient to feel shame, which we find generates anger or triggers a defence mechanism – which hinder the solution process. Statements like "you caused this" can be polarising, especially when the other person's intentions were not to inflict, so we avoid them altogether. We found it to be productive to take ownership through use of "I feel this" or "I sense that". These very statements are taking ownership – the responsibility is mine, not somebody else's. If we all take that attitude then we are all working to a common goal.
 
@@ -600,7 +599,7 @@ It has been said that responsibility is taken not given. So we proceeded with so
 
 ### Rigorous Honesty
 
-<div style="text-align:center; font-weight: 100 !important"><em>Dishonesty leads to guilt, remorse and shame. Which leads us back into a state of fear. These feelings eventually burden us, consciously or more dangerously unconsciously.</em></div>
+<div style="text-align:center; font-weight: 100 !important" class="quote-title"><em>Dishonesty leads to guilt, remorse and shame. Which leads us back into a state of fear. These feelings eventually burden us, consciously or more dangerously unconsciously.</em></div>
 
 In the past we hadn't paid much attention to being thoroughly honest. We tried as best we could to be honest most of the time. At a certain point in time it was no longer possible for us to continue on this path. We found that being always honest was the only way.
 
@@ -677,7 +676,7 @@ Do not despair – it is natural for one or many of these things to seep into ou
 
 ### Help Others
 
-<div style="text-align:center"><em>The Purpose of Life is to Help Others with theirs</em></div>
+<div style="text-align:center" class="quote-title"><em>The Purpose of Life is to Help Others with theirs</em></div>
 
 <span class="dropcap">E</span>very one of us is a son or a daughter. Some of us may choose to, or not be able to have children. But each of us has something in common, we have a mother and a father.
 
@@ -709,7 +708,7 @@ Helping others isn't a selfless act – when we help somebody we feel good abou
 
 ### Practice before you Preach
 
-<div style="text-align:center"><em>Before you spit out your words, be sure to taste them</em></div>
+<div style="text-align:center" class="quote-title"><em>Before you spit out your words, be sure to taste them</em></div>
 
 Part of what keeps us sane is sharing the ideas we find helpful in our daily lives. It was told to us that in order to keep the gifts that have come to us through practicing these principals, we must give them away. What does that really mean? Well we came to understand something like this: When we put the ideas shared with us into practice then great things come to pass. We witness this – we see people turn around their lives and overcome extreme adversity. Those who succeeded in staying on the straight and narrow path had to gives these ideas away. The most successful of us share freely these principles.
 
@@ -725,7 +724,7 @@ Sometimes we found that because of our new attitudes people came to us in need, 
 
 ### Open your Door 🔄
 
-<div style="text-align:center"><em>“When you choose to see the good in others, you end up finding the best in yourself”</em></div>
+<div style="text-align:center" class="quote-title"><em>“When you choose to see the good in others, you end up finding the best in yourself”</em></div>
 
 ### Listen
 
@@ -749,7 +748,7 @@ The original wordings of the steps have been changed, but the essence has remain
 
 ### Acceptance
 
-<div style="text-align:center"><em>“Understanding is the first step to acceptance, and only with acceptance can there be recovery.”</em></div>
+<div style="text-align:center" class="quote-title"><em>“Understanding is the first step to acceptance, and only with acceptance can there be recovery.”</em></div>
 
 What is acceptance and why is it important? Can everything in life be changed?
 
@@ -779,7 +778,7 @@ The final stage of acceptance is sometimes that of "letting go". Letting go is n
 
 ### Letting Go
 
-<div style="text-align:center"><em>Letting go is a process of opportunity, not of loss.</em></div>
+<div style="text-align:center" class="quote-title"><em>Letting go is a process of opportunity, not of loss.</em></div>
 
 Let go. Yes, let go.
 
