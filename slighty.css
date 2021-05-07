@@ -42,12 +42,14 @@ html, body {
   font-size: 75px;
   line-height: 60px;
   padding-top: 4px;
-  padding-right: 8px;
+  padding-right: 4px;
   padding-left: 3px;
 }
 .content {
   color: #444;
+  font-feature-settings: "liga" 1;
   font-variant-ligatures: normal;
+  hyphens: auto;
 	background-color: var(--bg-color) !important;
   text-align: justify;
 	font-family: "Vollkorn", Palatino, Times;
@@ -57,7 +59,7 @@ html, body {
 	margin-bottom: 2em;
 	line-height: 1.65;
 	padding-top: 60px;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.4px;
   position: absolute;
   top: 0;
   right: 0;
