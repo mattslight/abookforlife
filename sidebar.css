@@ -91,7 +91,6 @@ div.sidebar-nav > ul > li > a.section-link {
 }
 .sidebar-toggle {
     background-color: transparent;
-    background-color: hsla(0, 0%, 100%, 0.8);
     border: 0;
     outline: none;
     padding: 10px;
