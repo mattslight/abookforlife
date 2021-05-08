@@ -111,6 +111,16 @@ html, body {
   color: #000;
   line-height: 1.2;
 }
+.book-subtitle {
+  text-align: center;
+  font-family: "Caveat", serif;
+  font-size: 40px;
+  font-style: normal;
+  margin-bottom: 1em;
+  font-weight: 400;
+  color: #222;
+  line-height: 1.2;
+}
 #main > div > p > a {
     top: 0px;
     right: 10px;
