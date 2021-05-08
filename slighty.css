@@ -35,6 +35,10 @@ html, body {
   background: #04AA6D;
   width: 0%;
 }
+#word-count {
+  font-family: 'Futura';
+  font-size: 14pt;
+}
 .dropcap {
   color: #903;
   float: left;
