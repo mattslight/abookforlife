@@ -37,7 +37,7 @@ html, body {
   width: 0%;
 }
 #word-count {
-  font-family: 'Futura';
+  font-family: 'Futura', 'Avenir', 'Lato', sans-serif;
   font-size: 14pt;
 }
 #toggle-notes {
