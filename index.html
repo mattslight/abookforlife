@@ -18,8 +18,9 @@
       <div class="progress-bar" id="progressBar"></div>
     </div>
   </div>
+  <div id="toggle-notes"><a onclick="hideNotes()">Toggle Notes</a></div>
   <div id="app"></div>
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="https://mattslight.github.io/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
         name: '',
@@ -62,6 +63,18 @@
     var scrolled = (winScroll / height) * 100;
     document.getElementById("progressBar").style.width = scrolled + "%";
   }
+
+  function hideNotes() {
+  const children = [...document.getElementsByTagName("blockquote")];
+  children.forEach((child) => {
+    console.log(child)
+    if (child.style.display === "block") {
+      child.style.display = "none";
+    } else {
+      child.style.display = "block";
+    }
+  });
+}
   </script>
 
 </body>
