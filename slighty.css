@@ -39,6 +39,12 @@ html, body {
   font-family: 'Futura';
   font-size: 14pt;
 }
+#toggle-notes {
+  position: fixed;
+  left: 40px;
+  top: 8px;
+  z-index: 999;
+}
 #edit-on-github {
   position: fixed;
   top: 0;
