@@ -10,6 +10,7 @@
     -webkit-touch-callout: none;
     -moz-osx-font-smoothing: grayscale;
     box-sizing: border-box;
+    scroll-margin-top: 2em;
 }
 html, body {
 	margin: auto;
@@ -195,6 +196,12 @@ h1,
 h2,
 h3{
 	text-align: center;
+}
+h1 a, h2 a, h3 a{
+  display: block;
+  position: relative;
+  margin-top: -3em;
+  padding-top: 3em;
 }
 
 h2:after{
