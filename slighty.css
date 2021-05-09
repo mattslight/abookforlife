@@ -247,7 +247,7 @@ blockquote {
   padding: 1em;
   border-left: 2px solid #ddd;
   background-color: white;
-  font-family: 'iA Writer Duospace';
+  font-family: 'iA Writer Duospace', monospace;
   color: #aa0000;
   font-size: .8em;
   display: none;
