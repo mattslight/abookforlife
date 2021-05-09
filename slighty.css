@@ -121,15 +121,6 @@ html, body {
   color: #222;
   line-height: 1.2;
 }
-#main > div > p > a {
-    top: 0px;
-    right: 10px;
-    position: fixed;
-    z-index: 999;
-    background-color: var(--bg-color);
-    padding: 5px;
-    opacity: 0.9
-}
 
 @media only screen and (max-width: 700px) {
 	body {
