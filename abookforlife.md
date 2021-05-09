@@ -1,38 +1,36 @@
+###
+> **NOTES**
+>
+> THE PURPOSE OF LIFE IS TO HELP OTHERS LIVE THEIRS
+>
+> **Share the truth - not what sounds good.**
+>
+> **Quit playing god. What is the truth?**
+>
+> **Resentments**, where does this come in – should we explain in emotions what a resentment is, what about the practical application of dealing with resentments
+>
+> **Get grace and humility**
+>
+> Treating others: Welcome everybody. There are no requirements to friendship
+>
+> Listen to this again and make note of the similarities - https://youtu.be/fTQISoOvJpI – she talks about forgiveness, dealing with resentments, powerlessness, letting go, coming to terms with things – what are the parallels against alcoholism?
+"
+
 # A Book for Life
 
 <p style="text-align: center" class="book-subtitle"><em>Some ideas we share</em></p>
 
-[//]: # "
-
-## Notes
-**THE PURPOSE OF LIFE IS TO HELP OTHERS LIVE THEIRS**
-**Share the truth - not what sounds good.**
-**Quit playing god. What is the truth?**
-
-**Resentments**, where does this come in – should we explain in emotions what a resentment is, what about the practical application of dealing with resentments
-
-**Get grace and humility**
-
-==Treating others: Welcome everybody. There are no requirements to friendship.==
-
-==Children have little need for these words. These ideas are formed by adults. Children follow their intuition==
-
-
-
-Listen to this again and make note of the similarities - https://youtu.be/fTQISoOvJpI – she takes about forgiveness, dealing with resentments, powerlessness, letting go, coming to terms with things – what are the parallels against alcoholism?
-"
-
 ## Foreword
 
-<span class="dropcap">M</span>ost books hope to add something to the world, perhaps the author has something she wishes to say. Maybe it's an inspiring story to tell, giving detailed accounts about characters and their relationships – describing in rich language places and the feelings they evoke. Other books are biographical, giving us detailed accounts of people's lives – often showing us the life behind the scenes of a celebrity. Novels can kindle emotions, take us on a journey of discovery or entertain us. Scientific books show us new theories, with ideas being rigorously tested. It is of great importance to bring new discoveries to the world and to introduce methods for reproducing repeatable results. Religious and spiritual works have formed at crucial points in cultures and societies, giving us hope for the future or identifying a code by which we can choose to live our lives. Often contained in these works are moral teachings, being scrutinised by religious leaders and academics.
+<span class="dropcap">M</span>ost books hope to add something to the world, perhaps the author has something she wishes to say. Maybe it's an inspiring story to tell, giving detailed accounts about characters and their relationships – describing in rich language places and the feelings they evoke. Other books are biographical, giving us detailed accounts of people's lives – often showing us the life behind the scenes of a celebrity. Novels can kindle emotions, take us on a journey of discovery or entertain us. Scientific books show us new theories, with ideas being rigorously tested. For it is of great importance to bring new discoveries to the world and to introduce methods for reproducing repeatable results. Religious and spiritual works have formed at crucial points in cultures and societies, giving us hope for the future or identifying a code by which we can choose to live our lives. Often contained in these works are moral teachings, being scrutinised by religious leaders and academics.
 
 This book may fall short of lofty ambitions, it has but one simple goal. To lay out a collection of ideas that has helped many people turn their lives around. From battling addiction, to dealing with loss, grief, pain, inner personal conflict and turmoil. The ideas in this book have helped us back from the brink and to stay sane.
 
 This book was written in lockdown at a time of a global pandemic, although there is little, if any, material here directly related to Covid-19. But just as we hope for the end of a global pandemic, and for our lives to return to normal, so then this book may be an echo of that desire for our lives to return to normal.
 
-The point of this book is to humbly distill ideas, collected over the years by parents, sons and daughters trying to improve themselves and prepare the next generation of children in this crazy world. Ideas have been gathered and crystallised from a variety of sources, sometimes congruous and other times isolated pockets of thought with little apparent relation to the others. Do not be fooled, there is a purpose in sharing the set of idea as they are presented – even when they seem disjointed. We do not wish to reveal "an anwer" as much as to highlight both sides of the coin – a good exampleof that is the duality of thought in *The Cost of Living*. Ideas are produced here with the simple goal of providing guidance and practical advice for living in a complex and rapidly changing world. In the most serious situations we have witnessed people save their lives by using a variety of thoughts in this book.
+The point of this book is to humbly distill ideas, collected over the years by parents, sons and daughters trying to improve themselves and prepare the next generation of children in this crazy world. Ideas have been gathered and crystallised from a variety of sources, sometimes congruous and other times isolated pockets of thought with little apparent relation to the others. Do not be fooled, there is a purpose in sharing the set of idea as they are presented – even when they seem disjointed. We do not wish to reveal "an answer" as much as to highlight both sides of the coin – a good example of that is the duality of thought in *The Cost of Living*. Ideas are produced here with the simple goal of providing guidance and practical advice for living in a complex and rapidly changing world. In the most serious situations we have witnessed people save their lives by using a variety of thoughts in this book.
 
-In one sense nothing new is presented in these pages – thoughts are borrowed from many different places, cultures and time-periods. Where we think the innovation lies is in bringing all the ideas into once resource. We have included writings to help with personal emotions, wellbeing and self-improvemeen and wherever possible included practical suggestions to assist in living a contented life. These ideas that have been discovered the hard way, through trial-and-error – although we had to find for ourselves what putting these ideas into practice really meant to us. Just as writing a recipe book will not compensate for years of practice in the kitchen, then the ideas in this book must be practiced to fully reap their benefits. Nevertheless this collection of thoughts feels like it should be something passed on – indeed all this wisdom, if it can be called that, has been shared to us freely – so if you find something useful please pass it on.
+In one sense nothing new is presented in these pages – thoughts are borrowed from many different places, cultures and time-periods. Where we think the innovation lies is in bringing all the ideas into once resource. We have included writings to help with personal emotions, wellbeing and self-improvement and wherever possible included practical suggestions to assist in living a contented life. These ideas that have been discovered the hard way, through trial-and-error – and we had to find for ourselves what putting these ideas into practice really meant to us. Just as writing a recipe book will not compensate for years of practice in the kitchen, then the ideas in this book must be practiced to fully reap their benefits. Nevertheless this collection of thoughts feels like it should be something passed on – indeed all this wisdom, if it can be called that, has been shared to us freely – so if you find something useful please pass it on.
 
 As younger adults we cared little for the ideas written on these pages, usually pursuing self-interests and believing that we knew best. At various points in time we thought we knew the answer to most things of practical value in life. Confidence and ignorance have ways of protecting our ego, like a sort of inflatable cushion. Our ego can take many hard knocks and you may be lucky enough that your protection is never punctured. But for the most part we found that sooner or later life has a way of handing us a firm reminder – that in certain situations our own resources are not sufficient – that we must rely on the help of others – and find a power much greater than ourselves.
 
@@ -42,31 +40,33 @@ On the other hand you may choose to consider this book an insurance policy, perh
 
 Whilst this book is not about the authors, it is entirely about the authors, giving us a sense of satisfaction and perhaps most importantly keeping us from finding less productive ways of otherwise entertaining ourselves. It is only through giving these ideas (or rather passing them on) that we get to keep them.
 
-These ideas belong to no-one, certainly not to us, if by chance you find them useful share them freely. The thoughts have been handed from person to person, hopefully gaining wisdom and refinement through each passing of minds. Do not then let these ideas settle, lest they sit and fester – break them apart and improve on them whenever you can. It is the hope that the ideas come from as many cultures past and present as possible, but it would be foolish not to concede that many stones have been left unturned. If you take this book onboard, you are encouraged to seek out as many new ideas from as many people as possible both dead and alive. Keeping in mind (historical) context and that it is only ever the present moment that we have with us now.
+These ideas belong to no-one, certainly not to us, if by chance you find them useful share them freely. The thoughts have been handed from person to person, hopefully gaining wisdom and refinement through each passing of minds. Do not then let these ideas settle, lest they sit and fester – break them apart and improve on them whenever you can. It is the hope that ideas come from as many cultures past and present as possible, but it would be foolish to think that many stones have been left unturned. If you take this book onboard, you are encouraged to seek out as many new ideas from as many people as possible both dead and alive. Keeping in mind context, especially situation and historical, and that it is only ever the present moment that we have with us now.
 
 Undoubtedly religion has had as much influence on these words as science. Before you dismiss any ideas out of hand, try to see where the message has come from and the context in which it was born. Decide for yourself what is useful to you and what is not. Listen to what people of religion have to say, see how you might use their spiritual messages to better understand yourself and the world around you. Take on board the learnings from science and engineering and build new ideas upon them. Trust in people who have more experience and wisdom than you, and do not take everything at face value. We hope you'll find threads of thought here from many walks of life – as many as could be assessed by the authors in a lifetime. The beauty of words passed through time is that the knowledge conveyed is greater than any individual could otherwise hope to discover in a single lifetime. If these ideas resonate with you and not with other people, then seek out ways of shaping these messages so that the concepts may be heard.
 
-Challenge everything in this book and take nothing for granted. Do your best to respect all ideas from all people. Remember that the words written on this page or any other are from a snapshot in time, allow them to evolve and retain the sentiments – especially of love, tolerance, kindness and compassion. Speak with as many people as possible. Listen to them and hear their words. Look for similarities in your own experiences and set differences aside. Seek everywhere and you will find. Split wood and turn every stone to get to the core of an idea. Just as passionately as you look, know when to stop searching, turn your focus to the world around you or settle inwardly and go about living your life. Seek peace and serenity, and find calm in not knowing. The answer to a given question may come when you least expect. The question may need refining. Or the answer may simply not exist…
+Challenge everything in this book and take nothing for granted. Do your best to respect all ideas from all people. Remember that the words written on this page or any other are from a snapshot in time, allow them to evolve and retain the sentiments – especially of love, tolerance, kindness and compassion. Speak with as many people as possible. Listen to them and hear their words. Look for similarities in your own experiences and set differences aside. Seek everywhere and you will find. Split wood and turn every stone to get to the core of an idea. Just as passionately as you look, know when to stop searching, turn your focus to the world around you or settle inwardly and go about living your life. Seek peace and serenity, and find calm in not knowing. The answer to a given question may come when you least expect. The question may need refining; Or the answer may simply not exist…
 
-#### A few words about this Book
+### A few words about this Book
 
-The first parts of this book on truth and belief are awkward and perhaps do not fit with the rest of the ideas. It is thought though, that by reminding ourselves that the fundamental concepts of *truth* and *belief* can be challenged then everything else on which they are built can also be.
+The first parts of this book on truth and belief are awkward and perhaps do not fit with the rest of the ideas. We think that by reminding ourselves that the fundamental concepts of *'truth'* and *'belief'* can be challenged, then everything else on which they are built may also be. The chapter on *Action* serves as a reminder to practice – not simly talk about all the ideas in this book.
 
-*The Cost of Living*, the shortest chapter and at the outset seemingly disconnected from the rest of the writings is designed to highlight the futility of entirely materialistic pursuits. We live in an age where capitalism has dominated cultural development for a long time. For those of us who have escaped living in a capitalist orientated society the impacts of it will surely still be felt, whether through colonialism, trade, tourism or globalisation. Most of us have direct experience with business, commerce or promotion of goods and services in one way or another. To disregards the cost of anything would be to ignore foundational roots in our global society. It is the goal then to bring forward these ideas and to show a duality in the way of thinking about the cost of living.
+*The Cost of Living*, the shortest chapter and at the outset seemingly disconnected from the rest of the writings is designed to highlight the futility of entirely materialistic pursuits. We live in an age where capitalism has dominated cultural development for a long time. For those of us who have escaped living in a capitalist orientated society the impacts of it will surely still be felt, whether through colonialism, trade, tourism or globalisation. Most of us have direct experience with business, commerce or promotion in one way or another. To disregard the cost of anything would be to ignore foundational roots in our global society. It is the goal then to bring forward these ideas and to show a duality in the way of thinking about the cost of living. There is a more subtle point here that is worth highlightning which is that any socio-economic arrangement is built upon the hearts and minds of people. It was once said that socialism is the perceived stepping stone to an  ideal way of life and a required evolution of capitalism – but look at history and see how much influence greed and self-seeking have on these structures. Wouldn't lives that are free of greed, self-seeking and acting through fear be an improvement now? Before we influence the thoughts, aspirations and ideas of others can we not start with looking at ourselves?
 
-The chapters on *Working with Others* and *Taking Care of Yourself*, are designed to build on the concept of balance introduced in *Self Awareness*. Balance is essential for stability in anything we do. Just as an engineer builds a skyscraper starting with a stable platform, drilling concrete deep below the surface, we are more steady with greater inner personal balance – ideally that which roots itself down within the soul.
+Some foundations are laid in the two chapters on *Emotions*, with them ultimately leading into the core of the book on *Ego* where we come to understand who we are, our limits and how we may escape them. The chapters on *Working with Others* and *Taking Care of Yourself*, are designed to build on the concept of balance introduced in *Self Awareness*. Balance is essential for stability in anything we do. Just as an engineer builds a skyscraper starting with a stable platform, drilling concrete deep below the surface, we are more steady with greater inner personal balance – ideally that which roots itself down within the soul.
 
-The later chapters *Practical daily life* and *Dealing with…* are designed as pragmatic guides, introducing concepts that perhaps are not taught at school or learned in other walks of life. It may be unwise to expect practical guides to answer every question you have, and perhaps you will find they are of little or no application. In that case I encourage you to update the sections and pass these ideas on to be of greater help to more people in a wider variety of situations. It may not be possible to cover every situation. It may be more desirable to reduce the number of words in this book to make it more accessible to more people. Feel free to remove or add parts of this book as you see fit but let your decision be guided by usefulness and practicality to yourself and to others rather than by ambition.
+The later chapters *Practical daily life* and *Dealing with…* are designed as pragmatic guides, introducing concepts that perhaps are not taught at school or learned in other walks of life. It may be unwise to expect practical guides to answer every question you have, and perhaps you will find they are of little value or no personal application. In that case I encourage you to update the sections and pass these ideas on to be of greater help to more people in a wider variety of situations. It may not be possible to cover every situation. It may be more desirable to reduce the number of words in this book and to simplify the language to make it more accessible to more people. Feel free to remove or add parts of this book as you see fit but let your decision be guided by usefulness and practicality to yourself and to others rather than by ambition.
 
-If you receive one message from this book let it be the idea to remain open-minded. Open your heart and clear your head, receive new ideas and remain forever optimistic in your outlook. Show everybody love and respect, especially to those who have made up their mind or seem set in their ways. Refer if necessary to the chapter '*==The Golden Rule & Self-seeking==*' and remind yourself of what is important – expect to receive that which you give out. It will only be through giving that you receive. Accept the things you can not change, have the courage to change the things you can and seek the wisdom to know the difference.
+We would like these ideas to be as accessible to children as they are to adults, but we sense that children have little need for these words. These ideas are mainly formed by adults looking to make sense of the sea of thoughts formed in their heads over years of living. Children follow their intuition and probably have no need for a lot of what is written here. Watch young children play and see if they outcast any member or harbour long-term resentments. Don't they welcome each other with open arms and enthusiasm? Watch and you will see for yourself that children see past gender, social status, creed and culture. They play together freely, express their emotions quite clearly and wear their hearts on their sleeves. Learn as much as you can about yourself by observing carefully how children play, learn and communicate.
+
+If you receive one message from this book let it be the idea to remain open-minded. Open your heart and clear your head, receive new ideas and remain forever optimistic in your outlook. Show everybody love and respect, especially to those who have made up their mind or seem set in their ways. Refer if necessary to the chapter '*Treating Others*' and remind yourself of what is important – expect to receive that which you give out. It will only be through giving that you receive. Accept the things you can not change, have the courage to change the things you can and seek the wisdom to know the difference.
 
 
 
-==*What is the idea here to refer to that section?* What has happened to the section on the Golden Rule - should it be included or not and how is this related to the section on Self-seeking? Where is greed / self-seeking talked about?==
+>  *What is the idea here to refer to that section?* What has happened to the section on the Golden Rule - should it be included or not and how is this related to the section on Self-seeking? Where is greed / self-seeking talked about?
 
-## 1. Truth, Belief and Open-mindedness (2172)
+## 1. Truth, Belief and Open-mindedness
 
-*When we make a decision or put our belief into something we close our minds off to the alternate possibilities. To believe the sun will always shine is to suppose that the opposite will never be true. Does a newborn anticipate the sudden darkness of night?*
+When we make a decision or put our belief into something we close our minds off to the alternate possibilities. To believe the sun will always shine is to suppose that the opposite will never be true. Does a newborn anticipate the sudden darkness of night?
 
 ### First, A point about Language
 
@@ -155,7 +155,7 @@ Having cleared the hurdles on reproducing reliable results we arrive at the next
 
 It is our hope that what we say is being communicated clearly and efficiently – but especially given all we have learned in this chapter we would be naïve to think that our expressions can be without interpretation. If the words in this book mean different things to you, but that the ideas could be useful, we encourage you to replace our language and substitute the words that better fit the ideas you wish to pass on. We have tried to use accessible language, kept jargon to a minimum and provide explanations or examples where ideas were at risk of being vague.
 
-## 2. Take Action (637)
+## 2. Take Action
 
 <div style="text-align: center" class="quote-title"><em>Don't talk about vision. Show it.</em></div>
 
@@ -177,7 +177,7 @@ Action has another benefit we found – it helped us learn what worked for us a
 
 Finally by taking a succession of quick small positive actions upon awakening this laid the foundations for the possibility of greater achievement in the day. Indeed in times when we were feeling low or deflated, simple actions like making our bed, preparing a meal, going for a walk would not only lead us on an upward path but would give us a better chance of achieving greater things subsequently.
 
-## 3. The Cost of Living (874)
+## 3. The Cost of Living
 
 <span class="dropcap">T</span>his is the shortest chapter in the book – do not be fooled, it is one of the most important concepts – hence these simple ideas being given a chapter and not a sub-heading of their own. When we understand these ideas they guide us in so much that we do – we keep these thoughts with us daily.
 
@@ -197,7 +197,10 @@ A lot of the time we make choices, or are forced into decisions about what we gi
 
 Lisa, a young woman became extremely wealthy at a young age. She had been promoted to the position of company director for a prominent new media company. Her salary elevated to a monthly sum she had only dreamed of as a teenager. Her financial remuneration was paralleled by her success, and she had worked hard to receive recognition for her abilities. Her story should be familiar with men and women of all ages. This woman had always experienced a strong sense of wanting, tied to a strong ambition - from a young age she felt that she always wanted more. She would recall the signs from her early childhood - when offered cake at parties she would long for a second slice. The rush of pleasure brought about by sugar tempting her to have another slice. In sports she was competitive and had a strong desire to win. She attended a good school and was well versed in all manner of academic subjects. She trawled additional writings for more and more knowledge, searching books and internet article to feed her fascination on all manner of subjects, first an obsession with horses and horse riding, later a craving for stylish clothes and handbags. No matter how much she acquired she always felt the need for more, never stopping once her craving was satisfied. The more it took to satisfy her craving the more she desired. One day Lisa felt that she reached a point where she had searched the world, but that nothing would fill her. The praise she received for academic achievement always faded after every success. The things she bought, her treasures, would after time bring her less and less pleasure. Lisa experienced a life changing event, her world had been shaken and this struck her to examine her lifestyle and question her values. Lisa now lives a different lifestyle. She is no longer burdened by the desires to gain material things, or chase ever increasing wealth and recognition. She is content with what she has, grateful for pleasures in life and is more at ease when she feels she doesn't know or doesn't understand something – more content that the answers to important questions usually resolve over time.
 
-## 4. Basic Emotions (6172)
+## 4. Basic Emotions
+> 📝 word count 6172
+>
+> ✅ content complete, first draft
 
 ### What they are and how to decipher them
 
@@ -330,17 +333,17 @@ Joining group exercise classes we found also to be beneficial in many circumstan
 
 As soon as we have reached out to others, offered and asked for help - we instantly felt less lonely.
 
-## 5. Complex Emotions (4053)
+## 5. Complex Emotions
 
-### (ENVY?) Jealousy
+### Jealousy & Envy
 
 <div style="text-align:center" class="quote-title"><em>Jealousy is insecurity hidden by bitterness</em></div>
 
-<span class="dropcap">J</span>ealousy is – we have learned – one of the most powerful emotions at times, and it can also be one of the most confusing. Its difficulty arises from the fact that jealousy is something like a mixture of two or three emotions working in tandem and then directed towards somebody. Jealousy can be built on both fear (insecurities) and resentment (anger, injustice). Jealousy also works differently when we harbour it against somebody, versus when we receive it.
+<span class="dropcap">J</span>ealousy and envy – we have learned – are two of the most powerful emotions, and they can also be the most confusing. We do not wish to disguish here between the two, for even if there is any we wish to talk about the single feeling from which they arise. For simplicity we simply refer to *Jealousy*. The confusing nature of this feeling arises from the fact that it is something like a mixture of two or three emotions working in tandem and then directed towards somebody. Jealousy can be built on both fear (insecurities) and resentment (anger, injustice). Jealousy also works differently when we harbour it against somebody, versus when we receive it.
 
-==What is jealousy? Simply put it is feeling or showing an envious resentment of someone or their achievements, possessions, or perceived advantages. A feeling of discontent or resentment aroused by someone else's possessions, qualities, or luck.==
+> What is jealousy? Simply put it is feeling or showing an envious resentment of someone or their achievements, possessions, or perceived advantages. A feeling of discontent or resentment aroused by someone else's possessions, qualities, or luck.
 
-Jealousy can be felt towards people we love as intensely as it is towards those we dislike. Firstly why should be harbour ill feelings to somebody we love? And is jealousy rational?
+Jealousy can be felt just as intensely towards people we love as it can be towards those we may not even know. Why should we harbour ill feelings to somebody we love? And is jealousy rational?
 
 Jealousy is born about through a sense of lacking or wanting. When we feel that what we have isn't sufficient we can look at somebody who has something and say "why should that person have what I want?". If we desire something so much and we don't have it – why should we resent or form hatreds towards those who have.
 
@@ -442,7 +445,7 @@ Empathy on the other-hand is being able to understand and share in the feelings 
 
 In summary we find it more effective when we can offer empathy rather than sympathy – but we always strive to be honest and genuine in our expressions. Empathy can be built through asking questions like "how are you feeling?", "how can I help?". It is perhaps these two single questions that are the most effective in relating to how others are feeling – these ideas are developed further in *Chapter 6 – Working with Others*.
 
-## 6. The Ego (2485) 🔄
+## 6. Ego  🔄
 
 <div style="text-align:center" class="quote-title"><em>Be yourself — everybody else is taken</em></div>
 
@@ -555,7 +558,8 @@ We must remember that the opposite can also be true, it may be that we are physi
 
 ### Greed & Self-Seeking
 
-## 7. Personal Conduct (3076)
+## 7. Personal Conduct
+> word count 3076
 
 ### Start with Balance
 
@@ -621,7 +625,7 @@ How did we start living our lives with complete and rigorous honesty? In order t
 
 We wrote down lists, completely honest lists of our shortcomings, common ones being greed, false pride, self-seeking, laziness, intolerance, denial – for these were we found all linked to a dishonest basis. Once we had identified these shortcomings we were able to seek in asking for them to be removed. Indeed through effort and continued action we were able to almost entirely eliminate these flaws. We doubted that we could ever remove all of them entirely from all situations in life, including the most testing – but this we accepted and acknowledged this was to be human. We adopted the attitude of progress, rather than perfection. For when we sought perfection and  failed this would inevitably knock us back. So then by being humble but accepted our shortcomings and continued to improve ourselves – and our conduct towards others.
 
-## 8. Taking Care of Ourselves (1328) 🔄
+## 8. Taking Care of Ourselves (1328)
 
 ### Finding Balance 🔄
 
