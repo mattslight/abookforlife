@@ -18,7 +18,7 @@
 
 # A Book for Life
 
-<p style="text-align: center" class="book-subtitle"><em>Some ideas we share</em></p>
+<p style="text-align: center" class="book-subtitle"><em>Some ideas we share.</em></p>
 
 ## Foreword
 
