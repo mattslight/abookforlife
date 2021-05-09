@@ -66,7 +66,7 @@ If you receive one message from this book let it be the idea to remain open-mind
 
 ## 1. Truth, Belief and Open-mindedness
 
-When we make a decision or put our belief into something we close our minds off to the alternate possibilities. To believe the sun will always shine is to suppose that the opposite will never be true. Does a newborn anticipate the sudden darkness of night?
+*When we make a decision or put our belief into something we close our minds off to the alternate possibilities. To believe the sun will always shine is to suppose that the opposite will never be true. Does a newborn anticipate the sudden darkness of night?*
 
 ### First, A point about Language
 
