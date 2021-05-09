@@ -168,6 +168,17 @@ html, body {
     padding-right: 4px;
     padding-left: 0px;
   }
+  #a-book-for-life {
+  	margin-top: 2em;
+  	font-weight: normal;
+  	font-size: 2.2em;
+  }
+  .book-subtitle {
+    font-size: 1.8em;
+  }
+  #word-count {
+    font-size: 11pt;
+  }
 }
 
 
