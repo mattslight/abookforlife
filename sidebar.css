@@ -17,7 +17,7 @@ body.close .content {
     left: 0;
     transition: transform 0.25s ease-out;
     width: 300px;
-    z-index: 20;
+    z-index: 10;
 }
 .sidebar > h1 {
     margin: 0 auto 1rem;
