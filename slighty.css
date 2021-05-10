@@ -14,7 +14,7 @@
 }
 html, body {
 	margin: auto;
-	background-color: var(--bg-color) !important;
+	background-color: var(--bg-color);
 }
 .header {
   position: fixed;
@@ -22,6 +22,15 @@ html, body {
   z-index: 999;
   width: 100%;
   background-color: #f1f1f1;
+}
+#topbar {
+  width: 100%;
+  height: 35px;
+  background-color: var(--bg-color) !important;
+  opacity: 0.9;
+  z-index: 20;
+  position: fixed;
+  top: 0;
 }
 
 /* The progress container (grey background) */
@@ -55,6 +64,7 @@ html, body {
   opacity: 0.9;
   font-size: 0.8em;
   height: 2em;
+  z-index: 20;
 }
 .dropcap {
   color: #903;
