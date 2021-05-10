@@ -1,4 +1,3 @@
-###
 > **NOTES**
 >
 > THE PURPOSE OF LIFE IS TO HELP OTHERS LIVE THEIRS
@@ -451,7 +450,7 @@ In summary we find it more effective when we can offer empathy rather than sympa
 
 <span class="dropcap">T</span>his is where we find that things get interesting. At the very least the ego is a fascinating and complex structure.
 
-When we first think about our Ego — Stop.
+When we first think about our Ego — *Stop*.
 
 Let's read that again slowly. "When we first think about our Ego". This is an odd phrase, isn't it? When we are disappointed we say "I'm not happy with myself". When we do well we might say "I'm so pleased with myself". So  this ask the question "who *is* I?", and "Who is *myself*?". Are these two different people?
 
@@ -486,7 +485,7 @@ So we can have an inflated sense of self worth – we might refer to this as 'fa
 
 ### Self Worth
 
-What makes us what we are? And how do we value our worth? When we were young we were told – "you can be anything you want to be".
+What makes us who we are? And how do we value our worth? When we were young we were told – "you can be anything you want to be".
 
 We saw in *Letting Go* that people, places and things do not define us. We are who we are. We learned that as soon as we could accept that we found a greater level of peace.
 
@@ -496,7 +495,7 @@ When we let something define our self worth, such as money, a job, a relationshi
 
 ### Love Yourself
 
-<div style="text-align:center" class="quote-title"><em>To love yourself is to accept the experiences that shaped you</em></div>
+<div style="text-align: center" class="quote-title"><em>To love yourself is to accept the experiences that shaped you</em></div>
 
 We came here often to read this section. A lot of ideas in this book require a lot of work and a lot of practice, the idea of loving ourselves we found to be no different – luckily we found some simple and effective tools for loving ourselves. Without love for ourselves we could not love others. Love for yourself will keep you balanced and it will keep you strong in the face of adversity. We have found that being tough on ourselves for small mistakes only added to our frustrations.
 
@@ -625,7 +624,7 @@ How did we start living our lives with complete and rigorous honesty? In order t
 
 We wrote down lists, completely honest lists of our shortcomings, common ones being greed, false pride, self-seeking, laziness, intolerance, denial – for these were we found all linked to a dishonest basis. Once we had identified these shortcomings we were able to seek in asking for them to be removed. Indeed through effort and continued action we were able to almost entirely eliminate these flaws. We doubted that we could ever remove all of them entirely from all situations in life, including the most testing – but this we accepted and acknowledged this was to be human. We adopted the attitude of progress, rather than perfection. For when we sought perfection and  failed this would inevitably knock us back. So then by being humble but accepted our shortcomings and continued to improve ourselves – and our conduct towards others.
 
-## 8. Taking Care of Ourselves (1328)
+## 8. Taking Care of Ourselves
 
 ### Finding Balance 🔄
 
@@ -804,11 +803,11 @@ There is also a beauty in letting-go. We recall the chapter *Everything comes at
 
 When something is a source of grief, anguish or suffering – letting go is also about giving up that pain. I may be in a toxic relationship, I'm with somebody who is putting me down, being hurtful and contributing to low-self esteem. I have tried all I can to put this relationship on a positive footing and of well-being for all, but every action I take – even from the advice of people with relevant experience –  seems to make the situation worse. So then, in this situation, won't letting go allow me to give up a source of pain and move forward?
 
-### ==Personal Inventory==
+### Personal Inventory
 
-### ==Clear away the Wreckage of the Past==
+### Clear away the Wreckage of the Past
 
-==Amends, Clear out fears, guilts, Remo==
+> Amends, Clear out fears, guilts, Remorse
 
 ### The 12 Steps
 
