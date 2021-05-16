@@ -14,6 +14,9 @@
 >
 > Listen to this again and make note of the similarities - https://youtu.be/fTQISoOvJpI – she talks about forgiveness, dealing with resentments, powerlessness, letting go, coming to terms with things – what are the parallels against alcoholism?
 "
+>
+> Aurelius meditations
+> https://www.youtube.com/watch?v=Hu0xDtK3g3Q
 
 # A Book for Life
 
@@ -358,13 +361,13 @@ We found that in all these circumstances learning to love ourselves and seeing t
 
 ### Self-pity
 
-We learned that self-pity was perhaps not so much an emotion as a state-of-mind. Self-pity, we find, can be born out of a sense of injustice – the belief that something we were owed did not come to us or that something was taken that we were entitled to.
+We learned that self-pity was perhaps not so much an emotion as a state-of-mind. Self-pity, we find, can be born out of a sense of injustice – the belief that something we were owed did not come to us or that something was taken that we were entitled to. Self-pity can also arise when we fail to correctly identify our *Self Worth*.
 
-On the surface self-pity seems to indicate low-self worth, but we found that the opposite was actually true. Self-pity comes from an elevated sense of self. When we wallowed in self-pity we were usually caught up with the idea that we deserved more or better. It may be true that somebody has done something to hurt us, or that something we were used to was taken from us but we found that self-pity did little, if anything to remedy this. A better course of action we found was usually either to speak up for ourselves, to practice acceptance or be in submission.
+On the surface self-pity seems to indicate low-self worth, but often we find that the opposite was actually true. Self-pity can just as easily come from an elevated sense of self – or the belief that something we are entitled to was taken from us. When we wallow in self-pity we usually get caught up with the idea that we deserve more or better. It may be true that somebody has done something to hurt us, or that something we became used to was taken from us but we found that the act of loathing in self-pity did little, if anything, to remedy our state of mind. Better courses of action we found was usually either, writing out our gratitude lists, speak up for ourselves, practice *Self-love*, to practice acceptance or to be in submission.
 
-Self-pity when directed internally was harmful, we find it tends to create a sort of internal resentment that then manifests as anger, bitterness or hatred. Channeled inwardly it also served to boost the ego and to bolster our sense of self-righteousness. To overcome this we adopted the mindset that nothing in this world really belongs to us or is owed to us, our time on Earth is characterised by a time of borrowing and receiving. We turned our thoughts around and instead of thinking about what was due we looked at what we could do for the world.
+Self-pity when directed internally is harmful, we find it tends to create a sort of internal resentment that then manifests as anger, bitterness or hatred. Channeled inwardly it also serves to boost the ego and to bolster our sense of self-righteousness. To overcome this we adopt the mindset that nothing in this world really belongs to us or is owed to us, our time on Earth is characterised by lending freely and borrowing what we need. We turn our thoughts around and instead of thinking about what we think is due to us, we look at what we can contribute back to the world.
 
-Self-pity directly outwardly tends to have a different purpose. Its goal is similar - that to boost the ego and increase self-entitlement. The action is different. Expressed outwardly it is an attempt to artificially invoke in others a sense of sympathy. The key here being artificially. A natural sense of empathy from others is healthy, we found then that we should seek to honestly express our situation and make no attempt to manipulate feelings towards us. We also found that excess sympathy had an adverse effect to our welling (see *Empathy vs. Sympathy*).
+Self-pity directly outwardly tends to have a different purpose. Its goal is similar – to boost the ego and increase self-entitlement. The action is different. Expressed outwardly, self-pity is an attempt to artificially invoke in others a sense of sympathy. The key here being artificially. A natural sense of empathy from others is healthy, we find that we should seek to honestly express ourselves and make no attempt to manipulate feelings towards us. We also found that trying to invoke excess sympathy had an adverse effect to our well-being (see *Empathy vs. Sympathy*).
 
 ### Guilt, Shame and Remorse
 
@@ -446,6 +449,8 @@ In summary we find it more effective when we can offer empathy rather than sympa
 
 ## 6. Ego  🔄
 
+> 3434 words
+
 <div style="text-align:center" class="quote-title"><em>Be yourself — everybody else is taken</em></div>
 
 <span class="dropcap">T</span>his is where we find that things get interesting. At the very least the ego is a fascinating and complex structure.
@@ -487,11 +492,19 @@ So we can have an inflated sense of self worth – we might refer to this as 'fa
 
 What makes us who we are? And how do we value our worth? When we were young we were told – "you can be anything you want to be".
 
-We saw in *Letting Go* that people, places and things do not define us. We are who we are. We learned that as soon as we could accept that we found a greater level of peace.
+People, places and things do not define us. Yet we have a tendency to let them. Once they become part of our definition of who we are – psychologically we associate our worth with those things.
 
-When we let something define our self worth, such as money, a job, a relationship or a place – we are at risk. When these things are taken away from us we see this as a blow to who we are. If you have ever lost a job, had a close relative pass away or move house you will have experienced this to one degree or another.  We have seen in *Ego & Humility* that we may have under or over appreciation of ourself. The key here is to appreciate ourselves *as we are*. Yes we should strive for better and yes we are capable of faults – but lack of ambition or humility doesn't mean we are worth less.
+Part of acceptance is knowing that we are who we are. Once our appreciation of self is not tied up with things, other people and places then we free ourselves from a certain bondage that holds over us. We have found this acknowledgement to be a liberating exercise. And like with a lot of things we have to come back to this idea of self-worth as there is a tendency for new things to creep in and once again become part of our self identiy.
+
+When we let something define our self worth, such as money, a job, a relationship or a place – we are at risk. When these things are taken away from us we see this as a blow to who we are. When we lose a job, lose a close relative or move house we experience this sense of loss to one degree or another. It is important to remind ourselves that these things do not define us.
+
+We have seen in *Ego & Humility* that we may have under or over appreciation of ourself. The key here is to appreciate ourselves *as we are*. Yes we should strive for better and yes we are capable of faults – but lack of ambition or humility doesn't mean we are worth less.
 
 #### Low opinion of self
+
+Just as we can have an elevated or opinion of ourselves (overconfidence, cockiness etc.) so too can we have a low opinion of ourselves. We find this to also be a dangerous position to be in, which can lead to *Self-pity*, sadness or at the worst of times depression. It can cause us to become overly introverted and to not stand up for ourselves. The point here is that we are worthy. We owe it to ourselves to recongnise this.
+
+We can combat low-opinion of ourselves through self appreciation (see *Love Yourself*).
 
 ### Love Yourself
 
@@ -525,13 +538,17 @@ Finally we took time in each day to rest and to recharge our energies, rememberi
 
 <div style="text-align:center" class="quote-title"><em>Ego will burn you, and humility rises from the ashes</em></div>
 
+Humility is characterised by having and showing grace in our actions. It is a state of mind where we neither have a high sense of self worth or a low sense of self worth. It is also characterised by being honest with ourselves and other people.
+
+Humility is perhaps the art of not thinking less of oneself, but thinking of oneself less often. When we are caught up in our own thoughts, there is a tendency for everything to become about us. When a storm breaks out, or the traffic is bad we tend to think about how it effects us. Remembering that other people are also going through tough experiences can help us put our own experinces into perspective.
+
+Humility is a daily practice – we must work hard to keep it in check. Gratitude lists are always a good starting point for resetting our callibration of humility. Picking up the phone and speaking to friends and family and listening to them is also another great way we can practice humility.
+
 #### Staying Humble
 
-Knowing how to spot our overinflated ego we made every effort to keep our egos in check and to remain humble. Since our ego likes to take the spotlight and if not kept in check could become unbalanced we continued to do things that would measure us with a sense of humility.
+Knowing how to spot our overinflated ego (see *Spot an Inflated Ego*) we make every effort to keep our egos in check and to remain humble. Since our ego likes to take the spotlight and if not kept in check could become unbalanced we continued to do things that would measure us with a sense of humility.
 
 To stay humble we found that we needed to always be in a position to help others, this could be and usually started with relatively small acts. We called friends and family often and asked how their days were – we made an effort to listen to other people's struggles and did so without judgement, or speaking down. Instead of forcing 'help' on others we would ask 'is there anything I can do to help'. We often found listening was as powerful as trying to help, which sometimes had the adverse effect – especially if we tried to force help on others. We took care of our own laundry, literally and metaphorically. We recognised that there was no job that was beneath us – we may be busy people but after all we found it important to keep our egos in check. We took out our own rubbish and cleared our own plates from the dinner table. We offered small acts of service to others, picking up their plates from the dinner table when we took ours. We always made time to speak to and listen to others – no matter how busy our days were – perhaps especially when we were busy and caught up in our own affairs. We learned the concept of 'getting out of our own heads' – for our own thoughts would resonate in our minds, causing them to echo and become louder and louder – listening to the strifes of others helped put our own thoughts into perspective. We asked for honest feedback from others, not seeing to be defensive but listening to their thoughts and trying to understand where they were coming from – for even if we disagreed with the view point entirely, we could at least entertain where they were coming from. We admitted when we were wrong and promptly admitted it. We learned to identify our weaknesses, reminding ourselves of our shortcomings and seeking to improve ourselves. We show appreciation at every opportunity especially when we received the smallest and most personal acts of kindness from others. We held the door open for others to walk through – literally and metaphorically. When we had achieved success we recognised the help and the work of others that had enabled us to reach where we did .We did not boast. When we performed acts of kindness we did not make a big fuss about it, blow a trumpet or advertise it to the world – we did so quietly without seeking recognition. We learned to take ownership and responsibility for our actions (see *Ownership and Responsibility*). We lived a love of submission and rigorous honesty for these things also ensured we had a solid foundation upon which to be humble (see *Submission* and *Rigorous Honesty*). We did not speak badly of others and did not seek to judge others actions – we accepted that others were just as prone to making mistakes as we are.
-
-####
 
 ### Your Biggest Weakness is Your Biggest Strength
 
@@ -556,6 +573,15 @@ Some of us had strong emotional feelings and as a child we spent a lot of time i
 We must remember that the opposite can also be true, it may be that we are physically strong, we may be good at sport, especially perhaps martial arts. But this physical strength we posses can be a weakness, if we do not channel it in the right way or learn to harness it correctly, it has the capacity to do a lot of damage. Have a good memory can be a huge benefit to many, helping us remember ideas and picking things up quickly.  But this same advantage can be a burden, forcing us to remember our past pains, sorrows and sufferings. With great power comes great responsibility.
 
 ### Greed & Self-Seeking
+
+> Greed is a selfish desire for something in excess.
+>
+> What is greed?
+> How can we combat it?
+> What is a self-seeking mindset? How does it come about? How can we combat it?
+>
+> Greed in relationship to lack of humility and grace, lack of care for others.
+> Greedy leads to jealously & envy
 
 ## 7. Personal Conduct
 > word count 3076
