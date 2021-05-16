@@ -65,14 +65,15 @@
     document.getElementById("progressBar").style.width = scrolled + "%";
   }
 
+
   function hideNotes() {
   const children = [...document.getElementsByTagName("blockquote")];
   children.forEach((child) => {
     console.log(child)
-    if (child.style.display === "block") {
-      child.style.display = "none";
+    if (child.classList.contains("note")) {
+      child.classList.remove("note");
     } else {
-      child.style.display = "block";
+      child.classList.add("note");
     }
   });
 }

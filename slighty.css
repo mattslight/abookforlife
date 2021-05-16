@@ -270,8 +270,24 @@ blockquote {
   background-color: white;
   font-family: 'iA Writer Duospace', monospace;
   color: #aa0000;
-  font-size: .8em;
-  display: none;
+  text-align: initial;
+  font-size: 0em;
+  height: 0;
+}
+blockquote::after {
+  content: "📝";
+  font-size: 16pt;
+  height: 0;
+  position: relative;
+  left: -50px;
+}
+.note {
+  font-size: 0.8em;
+  height: auto;
+}
+.note::after {
+  font-size: 0em;
+  height: 0;
 }
 code,
 pre {
