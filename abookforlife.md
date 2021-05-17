@@ -447,7 +447,7 @@ Empathy on the other-hand is being able to understand and share in the feelings 
 
 In summary we find it more effective when we can offer empathy rather than sympathy – but we always strive to be honest and genuine in our expressions. Empathy can be built through asking questions like "how are you feeling?", "how can I help?". It is perhaps these two single questions that are the most effective in relating to how others are feeling – these ideas are developed further in *Chapter 6 – Working with Others*.
 
-## 6. Ego  🔄
+## 6. Ego 🔄
 
 > 3434 words
 
@@ -572,7 +572,7 @@ Some of us had strong emotional feelings and as a child we spent a lot of time i
 
 We must remember that the opposite can also be true, it may be that we are physically strong, we may be good at sport, especially perhaps martial arts. But this physical strength we posses can be a weakness, if we do not channel it in the right way or learn to harness it correctly, it has the capacity to do a lot of damage. Have a good memory can be a huge benefit to many, helping us remember ideas and picking things up quickly.  But this same advantage can be a burden, forcing us to remember our past pains, sorrows and sufferings. With great power comes great responsibility.
 
-### Greed & Self-Seeking
+### Greed & Self-Seeking 🚩
 
 > Greed is a selfish desire for something in excess.
 >
@@ -650,9 +650,9 @@ How did we start living our lives with complete and rigorous honesty? In order t
 
 We wrote down lists, completely honest lists of our shortcomings, common ones being greed, false pride, self-seeking, laziness, intolerance, denial – for these were we found all linked to a dishonest basis. Once we had identified these shortcomings we were able to seek in asking for them to be removed. Indeed through effort and continued action we were able to almost entirely eliminate these flaws. We doubted that we could ever remove all of them entirely from all situations in life, including the most testing – but this we accepted and acknowledged this was to be human. We adopted the attitude of progress, rather than perfection. For when we sought perfection and  failed this would inevitably knock us back. So then by being humble but accepted our shortcomings and continued to improve ourselves – and our conduct towards others.
 
-## 8. Taking Care of Ourselves
+## 8. Taking Care of Ourselves 🔄
 
-### Finding Balance 🔄
+### Finding Balance
 
 <span class="dropcap">W</span>e talked earlier about balance and its importance. So we turn here to a practical guide on ways which we use to achieve balance.
 
@@ -871,7 +871,7 @@ When we are painstaking about this phase of our development (step 8 & 9 )
 11. We will intuitively know how to handle situations which used to baffle us.
 12. We will suddenly realise that this great power is doing for us what we could not do for ourselves.
 
-## 11. Practical Daily Life
+## 11. Practical Daily Life 🔄
 
 <span class="dropcap">M</span>ost of what is written earlier in this book is of general application. From this chapter forward this book turns to more practical affairs. Now that we have looked at questions concerning such topics as truth, submission and gratitude we may turn our attention to some more practical applications.
 
@@ -889,7 +889,7 @@ When we are painstaking about this phase of our development (step 8 & 9 )
 
 
 
-## 12. **Dealing with…**
+## 12. **Dealing with…** 🔄
 
 ### The Past
 
@@ -932,7 +932,7 @@ Just for today I will be content with what I have.
 
 Just for today I will adjust myself to what is, and not try to adjust everything to my own desires. I will take my “luck” as it comes, and fit myself to it.
 
-Just for today I will try to strengthen my mind. I will study. I will learn something useful. I will not be a mental loafer. I will read something that requires effort, thought and concentration.
+Just for today I will try to strengthen my mind, I will study, I will learn something useful. I will not be a mental loafer. I will read something that requires effort, thought and concentration.
 
 Just for today I will do somebody a good turn, and not get found out; if anyone knows of it, it will not count. I will do at least two things I don’t want to do – just for exercise.
 
@@ -942,7 +942,7 @@ Just for today I will have a program. I may not follow it exactly, but I will ha
 
 Just for today I will have a quiet half hour all by myself and relax. During this half hour, sometime, I will try to get a better perspective of my life.
 
-Just for today I will I will face my fears. I will not be afraid to notice what is beautiful and to believe that as I give to the world, so the world will give to me.
+Just for today I will face up to my fears. I will not be afraid to notice what is beautiful and to believe that as I give to the world, so the world will give to me.
 
 ### The 12 Principals
 
@@ -961,18 +961,18 @@ Just for today I will I will face my fears. I will not be afraid to notice what 
 
 ### 12 Steps
 
-1. Sometimes I will be completely screwed, helpless, and not able to proceed alone
+1. At some point I will be completely screwed, helpless, and not able to proceed alone
 2. With help I can restore my sanity
 3. I must accept help from everywhere
 4. Always be honest
 5. Admit wrongs freely
 6. Prepare for change and let go of my shortcomings
 7. Rely on help to remove shortcomings
-8. Become willing to repair damaged relationships
+8. Be willing to repair damaged relationships
 9. Make those amends
 10. Everyday evaluate my behaviour, be honest and amend wrongs
 11. Meditate, ask for strength, compassion, tolerance, patience etc.
-12. Pass these steps and always practice them
+12. Pass these steps on and always practice them
 
 ### Spotting our inflated Ego
 
@@ -1021,7 +1021,7 @@ Just for today I will I will face my fears. I will not be afraid to notice what 
 
 ### Acts of Kindness
 
-1. Give a compliment or write a letter listing somebody's strengths
+1. Give a compliment or write a kind letter
 2. Pick up trash or sweep the street
 3. Volunteer, do service and charity
 4. Give a gift without seeking reward; tip service staff
@@ -1032,7 +1032,7 @@ Just for today I will I will face my fears. I will not be afraid to notice what 
 9. Stop to help somebody in need, e.g. with a flat tyre or battery
 10. Offer to carry something
 11. Send somebody a music playlist
-12. Treat yourself for no reason
+12. Treat yourself
 
 ### Responding to Crisis
 
